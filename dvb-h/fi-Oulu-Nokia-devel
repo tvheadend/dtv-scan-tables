@@ -1,4 +1,0 @@
-# Nokia Oulu delelopment network
-# Network Name 'Nokia Oulu'
-# H freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-H 690000000 8MHz 1/2 NONE QPSK 8k 1/8 NONE
