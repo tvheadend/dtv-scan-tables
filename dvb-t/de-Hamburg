@@ -1,8 +1,13 @@
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy 
-T 490000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # Kanal 23, ZDF, ZDFInfokanal/3Sat, KI.KA/ ZDFdokukanal, MHP: ZDFdigitext
-T 546000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # Kanal 30, Kabel 1, N24, ProSieben, SAT.1 Fernsehen
-T 570000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # Kanal 33, ARD, Phoenix, arte, Eins Extra
-T 626000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # Kanal 40, RTL Television, RTL II, Super RTL, VOX
-T 754000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # Kanal 56, NDR, WDR, mdr, hessen Fernsehen
-T 205500000 7MHz 3/4 NONE QAM16 8k 1/4 NONE # Kanal 09, NDR, WDR, MDR, Bayrisches Fernsehen
-T 730000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # Kanal 53, HH1, Eurosport, Terra Nova, Neun Live
+# DVB-T Hamburg
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 205500000 7MHz 3/4 NONE QAM16 8k 1/8 NONE     # CH09: NDR, WDR, MDR, Bayrisches Fernsehen
+T 490000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE     # CH23: ZDF, Info/3sat, Doku/KiKa
+T 498000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE
+T 530000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE
+T 546000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE     # CH30: Sat.1, N24, ProSieben, KABEL1
+T 570000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE     # CH33: Das Erste Hamburg, Eins Extra, arte, Phoenix
+T 602000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE
+T 626000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE     # CH40: RTL Television, RTL2, Super RTL, VOX
+T 730000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE     # CH53: HH1, Eurosport, Terra Nova, Neun Live
+T 754000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE     # CH56: NDR, MDR, WDR, hr
+T 786000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE
