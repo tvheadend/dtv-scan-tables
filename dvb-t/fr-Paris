@@ -1,0 +1,7 @@
+# Paris - France (DVB-T transmitter of the Eiffel tower)
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 474000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+T 498000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+T 522000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+T 562000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+T 586000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
