@@ -1,0 +1,5 @@
+# DVB-T Alpicat (Lleida)
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 642000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE	# TV3, K3/33, 3/24, Canal Pilot, 3XL.net
+T 770000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE	# TVE 1, TVE 2, ANTENA 3, TELECINCO, CANAL+
+T 834000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE	# Veo TV, Net TV
