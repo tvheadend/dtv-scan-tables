@@ -1,0 +1,18 @@
+# Lyon - France (DVB-T transmitter of Fourvière)
+# Lyon - France (signal DVB-T transmis depuis l'émetteur de Fourvière)
+# see : http://tnt.niv2.com/69000-LYON.html
+# contact : Nicolas Estre <n_estre@yahoo.fr>
+
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+# R1 : Canal 56
+T 754000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+# R2 : Canal 36
+T 594000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+# R3 : Canal 21
+T 474000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+# R4 : Canal 54
+T 738000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+# R5 : Canal 27
+T 522000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+# R6 : Canal 24
+T 498000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
