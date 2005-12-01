@@ -1,0 +1,17 @@
+# Orléans / France
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+#
+# R2: canal 38 : direct8 TMC Gulli europe2 bfm itélé
+T 610166000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+
+# R1: canal 46 : F2 F3 F4 F5 arte LCP
+T 674166000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+
+# R4: canal 48 : M6 W9 NT1
+T 690166000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+
+# R6: canal 51 : TF1 NRJ12
+T 714166000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+
+# R3: canal 63 : canalplus
+T 810166000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
