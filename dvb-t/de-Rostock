@@ -1,0 +1,4 @@
+# DVB-T Rostock
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 538000000 8MHz 2/3 1/2 QAM16 8k 1/4 NONE # ARD / NDR
+T 674000000 8MHz 2/3 1/2 QAM16 8k 1/4 NONE # ZDF
