@@ -1,12 +1,12 @@
-# Australia / Perth (Carmel/Bickley transmitters)
+# Australia / Perth
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 # ABC
 T 226500000 7MHz 3/4 NONE QAM64 8k 1/16 NONE
-# Seven
+# Seven Network
 T 177500000 7MHz 2/3 NONE QAM64 8k 1/8 NONE
-# Nine
+# Nine Network
 T 191625000 7MHz 3/4 NONE QAM64 8k 1/16 NONE
-# Ten
+# Network TEN
 T 219500000 7MHz 3/4 NONE QAM64 8k 1/16 NONE
 # SBS
-T 536625000 7MHz 2/3 NONE QAM64 8k 1/8 NONE
+T 536500000 7MHz 2/3 NONE QAM64 8k 1/8 NONE
