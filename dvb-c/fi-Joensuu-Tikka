@@ -1,0 +1,4 @@
+# DVB-C, Tikka Media, Joensuu, Finland
+# freq sr fec mod
+C 162000000 6900000 NONE QAM128
+C 418000000 6900000 NONE QAM128
