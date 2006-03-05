@@ -2,12 +2,11 @@
 # Lyon - France (signal DVB-T transmis depuis l'émetteur du Mont Pilat)
 # see : http://tnt.niv2.com/69000-LYON.html
 # contact : Nicolas Estre <n_estre@yahoo.fr>
-
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 # R1 : Canal 45
 T 666000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 # R2 : Canal 36
-T 589000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+T 594000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 # R3 : Canal 39
 T 618000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 # R4 : Canal 54
