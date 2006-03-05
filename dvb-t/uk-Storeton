@@ -1,3 +1,14 @@
 # Storeton, Wirral
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+# Multiplex 1 BBC
 T 546167000 8MHz 3/4 NONE QAM16 2k 1/32 NONE
+# Multiplex 2 Digital 3&4
+T 578166670 8MHz 2/3 1/2  QAM64 2k 1/32 NONE
+# Multiplex A SDN
+T 490166670 8MHz 2/3 1/2  QAM64 2k 1/32 NONE
+# Multiplex B BBC
+T 514166670 8MHz 3/4 3/4  QAM16 2k 1/32 NONE
+# Multiplex C Crown Castle
+T 538166670 8MHz 3/4 3/4  QAM16 2k 1/32 NONE
+# Multiplex D Crown Castle
+T 570166670 8MHz 3/4 3/4  QAM16 2k 1/32 NONE
