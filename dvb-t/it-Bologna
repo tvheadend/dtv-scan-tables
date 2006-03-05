@@ -1,5 +1,7 @@
 # DVB-T Collserola (Barcelona)
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+#TeleSanterno
+T 186000000 7MHz 2/3 2/3 QAM64 8k 1/32 NONE
 #RaiA
 T 203500000 7MHz 2/3 2/3 QAM64 8k 1/32 NONE
 #Sestarete / Rete 7
@@ -20,3 +22,7 @@ T 714000000 8MHz 2/3 2/3 QAM64 8k 1/32 NONE
 T 722000000 8MHz 2/3 2/3 QAM64 8k 1/32 NONE
 #Mediaset Mux-A
 T 794000000 8MHz 2/3 2/3 QAM64 8k 1/32 NONE
+#TeleSanterno
+T 802000000 8MHz 2/3 2/3 QAM64 8k 1/32 NONE
+#LA7-2
+T 842000000 8MHz 2/3 2/3 QAM64 8k 1/32 NONE
