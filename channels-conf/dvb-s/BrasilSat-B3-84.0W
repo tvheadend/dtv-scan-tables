@@ -1,0 +1,240 @@
+# BrasilSat B3 84.0W
+#  freq     pol    sr     fec
+
+# Feed (NBR)
+S  3644000   V    4687000 3/4
+
+# Feed
+S  3651000   V    4444000 3/4
+
+# Feed (fec may be different) also saw with SR 4444, 4340, 6504 and 6645
+S  3657000   V    6666000 3/4
+
+# Feed Canção Nova
+S  3665000   V    3177000 3/4
+
+# Feed Canal do Boi
+S  3675000   V    4285000 3/4
+
+# Feed Band - also saw with SR 3200
+S  3684000   V    3460000 3/4
+
+# TV Banderantes SP
+S  3688000   V    2308000 7/8
+
+# Feed Terra Viva
+S  3692000   V    3200000 5/6
+
+# [encrypted - PowerVu] TV Sul América (Globo)
+S  3698000   V    3333000 3/4
+
+# TV Serra Dourada (SBT) / 99.5 Goiânia
+S  3705000   H    4280000 3/4
+
+# TV Jangadeiro (SBT) / Jangadeiro FM
+S  3710000   H    3261000 3/4
+
+# Fundação Padre Anchieta / Radio Cultura AM and FM / Service channels /
+#                              TV Assembléia São Paulo/TV Cultura Rede /
+#                                      [encrypted T-Crypt] TV Rá-Tim-Bum
+S  3710000   V   12960000 3/4
+
+# [encrypted] InterTV Grande Minas (Globo)
+S  3716000   H    4000000 3/4
+
+# Rádio Pentecostal Deus é Amor
+S  3724000   V    2075000 3/4
+
+# Feed Esportes
+S  3728000   H    4340000 3/4
+
+# [encrypted - PowerVU] TV Rádio Clube (Globo) / Rádio Clube do Piauí
+S  3732000   V    3214000 3/4
+
+# TV Sul Fluminense (Band)
+S  3736000   H    3330000 5/6
+
+# [encrypted - PowerVU] TV Morena (Globo)
+S  3738000   V    4708000 3/4
+
+# Shop Tour Rede Nacional
+S  3745000   H    4300000 7/8
+
+# RBA Sat (Band) / Rádio Clube do Pará
+S  3751000   H    3565000 3/4
+
+# Data channel
+S  3754000   V    5000000 1/2
+
+# TV Cidade Verde (SBT) / Rede Verdes Campos Sat
+S  3757000   H    3565000 3/4
+
+# IRDEB - TVE Bahia / Service channel / Rádio Educadora FM /
+#				    TVE Bahia (Rede Pública)
+S  3764000   H    4285000 3/4
+
+# Mux Sesc/Senac / [encrypted Cryptoworks] Canal 2 / 
+#            [encrypted Cryptoworks] Ocasional / STV
+S  3768000   V    8000000 3/4
+
+# TV Horizonte / Cultura AM 830
+S  3770000   H    3333000 3/4
+
+# TV Palmas (Rede Pública) / Rádio Palmas FM
+S  3774000   H    3330000 3/4
+
+# Test
+S  3781000   V    3330000 3/4
+
+# TV A Crítica (SBT) / Rádio A Critica
+S  3786000   V    4286000 3/4
+
+# [encrypted - Irdeto] Inter Tv / Montes Claros / Planicie/ Serramar
+S  3790000   H   10444000 5/6
+
+# TV Assembléia - MG
+S  3791000   V    3330000 5/6
+
+# TV Cidade Verde (SBT) - Cuiabá/MT
+S  3800000   H    3255000 3/4
+
+# Rede TV! - RO
+S  3805000   V    3255000 3/4
+
+# Rede Mundial (LBV)
+S  3824000   H    3002000 3/4
+
+# CNT Testes
+S  3831000   V    4340000 3/4
+
+# Sistema Canção Nova de Comunicação: Rádio Canção Nova AM /
+#	 Rádio Canção Nova FM / TV Canção Nova Grande Vale /
+#	  TV Canção Nova Internacional / TV Canção Nova Rede
+S  3845000   H   10127000 3/4
+
+# Feed Rede Amazônica
+S  3852000   V    3806000 3/4
+
+# Jockey Club Brasileiro
+S  3858000   V    4288000 3/4
+
+# Record Belém Pará
+S  3866000   H    4425000 3/4
+
+# Record RJ / Rede Aleluia
+S  3871000   H    4435000 2/3
+
+# Rede Família
+S  3877000   H    4450000 3/4
+
+# Record MS / Rádio Cidade (Campo Grande - MS)
+S  3883000   H    4278000 3/4
+
+# TV Itapoan (Record) / Rádio Sociedade da Bahia
+S  3889000   H    4440000 3/4
+
+# Record Goiânia - GO
+S  3895000   H    4430000 2/3
+
+# TV Gazeta
+S  3906000   H    3928000 3/4
+
+# [encrypted] IELF / IELF1 / IELF2
+S  3910000   H    3616000 3/4
+
+# TV Sul Bahia (Canção Nova)
+S  3911000   V    3255000 3/4
+
+# TV Campo Grande (SBT)
+S  3916000   H    3255000 3/4
+
+# TV Gênesis / Sara Brasil FM
+S  3921000   H    3255000 3/4
+
+# [encrypted - Codicrypt] Damásio
+S  3923000   V    1808000 3/4
+
+# TV Aratu (SBT)
+S  3927000   V    3255000 3/4
+
+# Galeria de Artes
+S  3931000   H    3255000 3/4
+
+# Rede Banderantes Bahia
+S  3932000   V    3255000 3/4
+
+# Medalhão Persa
+S  3936000   H    3255000 3/4
+
+# Feed Medalhão Persa
+S  3936000   V    3255000 3/4
+
+#Rede Super / Rádio Super
+S  3940000   V    3255000 3/4
+
+# TV Assembléia - RS
+S  3943000   V    1808000 3/4
+
+# RBI
+S  3949000   V    4340000 3/4
+
+# TV Tribuna (Redord)
+S  3955000   V    4340000 3/4
+
+# Mix TV Regional (STV)
+S  3966000   V    2170000 3/4
+
+# TVE RS (Rede Pública) / FM Cultura
+S  3970000   V    4445000 3/4
+
+# CineBrasil TV
+S  3985000   V    3255000 3/4
+
+# Rede CBS / Rádio FX
+S  3989000   V    2666000 3/4
+
+# TVE Regional MS (Rede Pública) / FM Regional
+S  4013000   V    3255000 3/4
+
+# Shop Tour Cachoeira
+S  4054000   V    1287000 7/8
+
+# TV Justiça / Rádio Justiça
+S  4060000   V    3330000 3/4
+
+# Band RJ / Band News FM
+S  4070000   H    2600000 5/6
+
+# CNT Rede
+S  4075000   V    4444000 3/4
+
+# Grupo Bandeirantes / [encrypted - Videoguard] Band FM, Band News, Band Sports /
+#	   Band #1 (Nacional) / Band #2 (Nacional) / BandNews FM / Nativa FM SP /
+#	      Rede 21 / Rádios A,B,C / [encrypted - Videoguard] Rádio Banderantes
+
+S  4087000   H   17200000 5/6
+
+# LFG / Canais 1, 2
+S  4122000   H    3618000 3/4
+
+# Praetorium Sat / Canais 1, 2
+S  4132000   H    3618000 3/4
+
+# TVAL - SC
+S  4132000   V    2532000 3/4
+
+# Embratel 21 / Transamérica Hits - Fortaleza
+S  4152000   V    2300000 3/4
+
+# [encrypted - Irdeto] Sexy TV
+S  4155000   V    2170000 3/4
+
+# TV Educon Unitins
+S  4167000   H    3255000 3/4
+
+# TV BASA
+S  4169000   V    8140000 2/3
+
+# Mix TV
+S  4171000   H    2170000 3/4
+
