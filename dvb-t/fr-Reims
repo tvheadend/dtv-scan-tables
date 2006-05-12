@@ -1,0 +1,25 @@
+# Reims - France (DVB-T transmitter of Reims ( Hautvillers ) )
+# Reims - France (signal DVB-T transmis depuis l'émetteur de Hautvillers )
+# 
+# ATTENTION ! Ce fichier a ete construit automatiquement a partir
+# des frequences obtenues sur : http://www.tvnt.net/multiplex_frequences.htm
+# en Avril 2006. Si vous constatez des problemes et voulez apporter des
+# modifications au fichier, envoyez le fichier modifie a 
+# l'adresse linux-dvb@linuxtv.org (depot des fichiers d'init dvb)
+# ou a l'auteur du fichier :
+# Nicolas Estre <n_estre@yahoo.fr>
+#
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+#### Reims - Hautvillers ####
+#R1
+T 562000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+#R2
+T 554000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+#R3
+T 602000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+#R4
+T 578000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+#R5
+T 666000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+#R6
+T 642000000 8MHz AUTO NONE QAM64 8k AUTO NONE

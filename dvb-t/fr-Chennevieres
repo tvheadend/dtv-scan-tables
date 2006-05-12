@@ -1,0 +1,25 @@
+# ParisEst - France (DVB-T transmitter of ParisEst ( Chennevières ) )
+# ParisEst - France (signal DVB-T transmis depuis l'émetteur de Chennevières )
+# 
+# ATTENTION ! Ce fichier a ete construit automatiquement a partir
+# des frequences obtenues sur : http://www.tvnt.net/multiplex_frequences.htm
+# en Avril 2006. Si vous constatez des problemes et voulez apporter des
+# modifications au fichier, envoyez le fichier modifie a 
+# l'adresse linux-dvb@linuxtv.org (depot des fichiers d'init dvb)
+# ou a l'auteur du fichier :
+# Nicolas Estre <n_estre@yahoo.fr>
+#
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+#### ParisEst - Chennevières ####
+#R1
+T 586000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+#R2
+T 738000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+#R3
+T 786000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+#R4
+T 810000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+#R5
+T 714000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+#R6
+T 762000000 8MHz AUTO NONE QAM64 8k AUTO NONE
