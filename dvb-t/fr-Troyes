@@ -1,0 +1,25 @@
+# Troyes - France (DVB-T transmitter of Troyes ( LesRiceys ) )
+# Troyes - France (signal DVB-T transmis depuis l'émetteur de LesRiceys )
+# 
+# ATTENTION ! Ce fichier a ete construit automatiquement a partir
+# des frequences obtenues sur : http://www.tvnt.net/multiplex_frequences.htm
+# en Avril 2006. Si vous constatez des problemes et voulez apporter des
+# modifications au fichier, envoyez le fichier modifie a 
+# l'adresse linux-dvb@linuxtv.org (depot des fichiers d'init dvb)
+# ou a l'auteur du fichier :
+# Nicolas Estre <n_estre@yahoo.fr>
+#
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+#### Troyes - LesRiceys ####
+#R1
+T 482000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+#R2
+T 594000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+#R3
+T 634000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+#R4
+T 514000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+#R5
+T 506000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+#R6
+T 530000000 8MHz AUTO NONE QAM64 8k AUTO NONE
