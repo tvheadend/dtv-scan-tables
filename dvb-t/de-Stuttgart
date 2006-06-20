@@ -1,0 +1,6 @@
+# DVB-T Stuttgart
+# by Joerg Marhenke (joerg.marhenke@uni-ulm.de)
+
+T 522000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE
+T 705000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE
+T 722000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE
