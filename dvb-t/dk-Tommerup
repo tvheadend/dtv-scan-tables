@@ -1,0 +1,4 @@
+# DVB-T Tommerup
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 506000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # Kanal 25 DR1, DR2, TV2
+
