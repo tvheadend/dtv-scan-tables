@@ -1,3 +1,4 @@
 # Astra 28.2E SDT info service transponder
 # freq pol sr fec
 S 10773000 H 22000000 5/6
+S 11778000 V 27500000 2/3
