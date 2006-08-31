@@ -1,4 +1,8 @@
-# DVB-T Sevilla (Andalucia)
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 762000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE     # C43: autonomicos
-T 794000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE      # C61: nacionales
+# DVB-T Sevilla (Andalucia)                   by x2 15 Agosto 2006
+# T freq bw fec_hi fec_lo mod transm-mode guard-interval hierarchy
+T 762000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE                  # C57
+T 794000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE                  # C61
+T 834000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE                  # C66
+T 842000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE                  # C67
+T 850000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE                  # C68
+T 858000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE                  # C69
