@@ -1,0 +1,15 @@
+# The channels with 1/32 guard-interval are French and should be perfectly visible
+# here. However I have only managed to get a lock for the channel 57 of the French ones.
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 562000000 8MHz 2/3 1/2 QAM64 8k 1/4 NONE     # Canal 32: CNN+, Cuatro, La Sexta 1, 40 Latino TV, EPG Soge V2 5
+T 626000000 8MHz 2/3 1/2 QAM64 8k 1/4 NONE     # Canal 40: Antena 3, Antena.Neox, Antena.Nova, Telehit, Onda Cero, Europa FM, Onda Melodia, A3Lanzadera, A3Portal, EPGA3, A3Ticker
+T 642000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE   # Canal 42: Direct8, TMC, BFM, iTele, Europe2TV, Gulli
+T 698000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE   # Canal 49: M6, W9, NT1
+T 714000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE   # Canal 51: Canal+, Canal+ Cinema, Canal+ Sport
+T 762000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE   # Canal 57: TF1, NRJ12, Eurosport, TPS Star, LCI
+T 786000000 8MHz 2/3 1/2 QAM64 8k 1/4 NONE     # Canal 60: ETB1, ETB2, ETB-Sat, Canal Vasco, Euskadi Irratia, Radio Euskadi, Euskadi Gaztea, Radio Etb, TGov, Eguraldi
+T 810000000 8MHz 2/3 1/2 QAM64 8k 1/4 NONE     # Canal 63: TVE1, TVE2, 24H TVE, Clan/TVE 50 anos, RNE, RNEC, RNE3, Lanzadera, EPG, Digitext, Meteo, Bolsa, Trafico, Empleat
+T 826000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE   # Canal 65: France 2, France 3, France 4, France 5, Arte, LCP
+T 834000000 8MHz 2/3 1/2 QAM64 8k 1/4 NONE     # Canal 66: Net TV, Teledeporte, Veo TV1, Veo TV2, Lanzadera, EPG, Digitext, Meteo, Bolsa, Trafico, Empleat
+T 850000000 8MHz 2/3 1/2 QAM64 8k 1/4 NONE     # Canal 68: Fly Music, Tele 5, Tele 5 Estrellas, Tele 5 Sport
+
