@@ -1,7 +1,7 @@
 # DVB-T Berlin
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 522000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE     # ard / rbb
-T 570000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE     # zdf
+T 522000000 7MHz 2/3 NONE QAM16 8k 1/8 NONE     # ard / rbb
+T 570000000 7MHz 2/3 NONE QAM16 8k 1/8 NONE     # zdf
 T 618000000 8MHz 1/2 NONE QAM16 8k 1/8 NONE     # dvb-h testbouqet
 T 658000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE     # t-systems
 T 778000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE     # Kanal 59, n-tv, Euronews + Radio (IFA)
