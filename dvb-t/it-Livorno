@@ -1,0 +1,15 @@
+# This channel list is made by G.U.L.LI. LIvorno's Linux Users Group
+# Thanks to: Alessandro Guarguaglini, Stefano Lenzi
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+# MUX-A RAI
+T 698000000 8MHz 2/3 1/2 QAM64 8k 1/32 NONE
+# MUX-B RAI
+T 658000000 8MHz 2/3 1/2 QAM64 8k 1/32 NONE
+# MUX MEDIASET 1
+T 618000000 8MHz 2/3 1/2 QAM64 8k 1/32 NONE
+# MUX MEDIASET 2
+T 754000000 8MHz 2/3 1/2 QAM64 8k 1/32 NONE
+# MUX La7/MTV
+T 818000000 8MHz 2/3 1/2 QAM64 8k 1/32 NONE
+# MUX DFREE
+T 586000000 8MHz 2/3 1/2 QAM64 8k 1/32 NONE
