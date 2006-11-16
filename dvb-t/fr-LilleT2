@@ -1,0 +1,13 @@
+# Lille - France (DVB-T transmitter of Lambersart)
+#offset of 167000 for Cinergy T2. Other type of card users need to replace 167 by 000
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+#R2
+T 538167000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+#R4
+T 546167000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+#R3
+T 562167000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+#R6
+T 586167000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+#R1
+T 594167000 8MHz 3/4 NONE QAM64 8k 1/8 NONE
