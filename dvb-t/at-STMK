@@ -1,0 +1,8 @@
+##################################################################################
+#T  freq    bw   coderate_HP coderate_LP modulation transmode guard-int hierarchy
+#--------------------------------------------------------------------------------
+
+# Austria / Steiermark
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+# Kanal 69, Frequenz 858
+T 858000000 8MHz 3/4 NONE QAM16 8k 1/4 NONE
