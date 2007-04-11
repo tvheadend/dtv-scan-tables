@@ -1,0 +1,11 @@
+# DVB-T Ostbayern/Bayern
+# for the Region around Regensburg, Straubing, Cham, Zwiesel, Freyung, Passau, Pfarrkirchen
+# Thorsten Pinz (tom_p at gmx.de)
+
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 191500000 7MHz 3/4 NONE QAM16 8k 1/4 NONE #K07, ARD (Hohe Linie, Hoher Bogen, Brotjackelriegel)
+T 522000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #K27, BR (Pfarrkirchen, Brotjackelriegel)
+T 530000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #K28, BR (Hohe Linie, Hoher Bogen)
+T 570000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #K33, ZDF (Hoher Bogen, Brotjackelriegel, Pfarrkirchen)
+T 626000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #K40, ARD (Pfarrkirchen)
+T 730000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #K53, ZDF (Hohe Linie)
