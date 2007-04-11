@@ -1,0 +1,3 @@
+# DVB-T Viborg
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 682000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # Kanal XX DR1, DR2, TV2
