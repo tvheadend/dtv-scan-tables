@@ -1,7 +1,11 @@
 # DVB-T Berlin
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 522000000 7MHz 2/3 NONE QAM16 8k 1/8 NONE     # ard / rbb
-T 570000000 7MHz 2/3 NONE QAM16 8k 1/8 NONE     # zdf
-T 618000000 8MHz 1/2 NONE QAM16 8k 1/8 NONE     # dvb-h testbouqet
-T 658000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE     # t-systems
-T 778000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE     # Kanal 59, n-tv, Euronews + Radio (IFA)
+T 177500000 7MHz 3/4 NONE QAM16 8k 1/8 NONE     # K5  WDR, SW, BBC, FAB
+T 191500000 7MHz 2/3 NONE QAM16 8k 1/8 NONE     # K7  MDR, arte, NDR, ARD-Online-Kanal, ARD-MHP-Data
+T 506000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE     # K25 RTL, RTL2, Super RTL, VOX
+T 522000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE     # K27 ARD, RBB, RBB Brd., Phoenix, EinsExtra, ARD-MHP-Data
+T 570000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE     # K33 ZDF, 3sat, Doku/KiKa
+T 658000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE     # K44 Sat1, N24, Pro7, Kabel1
+T 754000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE     # K56 Eurosport, DSF, 9Live, TV.Berlin
+T 778000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE     # K59 n-tv, Euronews, 33x Radio
+T 618000000 8MHz 1/2 NONE QAM16 8k 1/8 NONE     # DVBH Test INT/Service
