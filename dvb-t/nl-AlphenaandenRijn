@@ -1,5 +1,5 @@
 # Digitenne (Alphen aan den Rijn, The Netherlands)
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy        
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 T 474000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE
 T 578000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE
 T 722000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE

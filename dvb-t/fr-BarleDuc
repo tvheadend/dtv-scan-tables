@@ -1,10 +1,10 @@
 # BarleDuc - France (DVB-T transmitter of BarleDuc ( Willeroncourt ) )
-# BarleDuc - France (signal DVB-T transmis depuis l'émetteur de Willeroncourt )
-# 
+# BarleDuc - France (signal DVB-T transmis depuis l'Ã©metteur de Willeroncourt )
+#
 # ATTENTION ! Ce fichier a ete construit automatiquement a partir
 # des frequences obtenues sur : http://www.tvnt.net/multiplex_frequences.htm
 # en Avril 2006. Si vous constatez des problemes et voulez apporter des
-# modifications au fichier, envoyez le fichier modifie a 
+# modifications au fichier, envoyez le fichier modifie a
 # l'adresse linux-dvb@linuxtv.org (depot des fichiers d'init dvb)
 # ou a l'auteur du fichier :
 # Nicolas Estre <n_estre@yahoo.fr>
