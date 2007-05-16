@@ -1,7 +1,7 @@
-# Orléans / France
+# OrlÃ©ans / France
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 #
-# R2: canal 38 : direct8 TMC Gulli europe2 bfm itélé
+# R2: canal 38 : direct8 TMC Gulli europe2 bfm itÃ©lÃ©
 T 610166000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 
 # R1: canal 46 : F2 F3 F4 F5 arte LCP

@@ -2,7 +2,7 @@
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 
 # Villebon - France (DVB-T transmitter of Villebon (South of Paris))
-# Villebon - France (signal DVB-T transmis depuis l'émetteur de Villebon (Sud de Paris))
+# Villebon - France (signal DVB-T transmis depuis l'Ã©metteur de Villebon (Sud de Paris))
 # see : http://tnt.niv2.com/91140-VILLEBON-SUR-YVETTE.html
 # contact : Nicolas Estre <n_estre@yahoo.fr>
 
@@ -20,5 +20,3 @@ T 810000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 T 714000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 #R6 57
 T 762000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
-
-

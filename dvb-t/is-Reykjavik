@@ -1,4 +1,4 @@
-# Initial scan config for Digital Õsland in Iceland
+# Initial scan config for Digital √çsland in Iceland
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 T 682000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 T 690000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE

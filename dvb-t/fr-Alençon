@@ -1,16 +1,16 @@
-# Alençon - France (DVB-T transmitter of Alençon ( Montsd'Amain ) )
-# Alençon - France (signal DVB-T transmis depuis l'émetteur de Montsd'Amain )
-# 
+# AlenÃ§on - France (DVB-T transmitter of AlenÃ§on ( Montsd'Amain ) )
+# AlenÃ§on - France (signal DVB-T transmis depuis l'Ã©metteur de Montsd'Amain )
+#
 # ATTENTION ! Ce fichier a ete construit automatiquement a partir
 # des frequences obtenues sur : http://www.tvnt.net/multiplex_frequences.htm
 # en Avril 2006. Si vous constatez des problemes et voulez apporter des
-# modifications au fichier, envoyez le fichier modifie a 
+# modifications au fichier, envoyez le fichier modifie a
 # l'adresse linux-dvb@linuxtv.org (depot des fichiers d'init dvb)
 # ou a l'auteur du fichier :
 # Nicolas Estre <n_estre@yahoo.fr>
 #
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-#### Alençon - Montsd'Amain ####
+#### AlenÃ§on - Montsd'Amain ####
 #R1
 T 618000000 8MHz AUTO NONE QAM64 8k AUTO NONE
 #R2

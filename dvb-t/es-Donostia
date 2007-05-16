@@ -12,4 +12,3 @@ T 810000000 8MHz 2/3 1/2 QAM64 8k 1/4 NONE     # Canal 63: TVE1, TVE2, 24H TVE, 
 T 826000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE   # Canal 65: France 2, France 3, France 4, France 5, Arte, LCP
 T 834000000 8MHz 2/3 1/2 QAM64 8k 1/4 NONE     # Canal 66: Net TV, Teledeporte, Veo TV1, Veo TV2, Lanzadera, EPG, Digitext, Meteo, Bolsa, Trafico, Empleat
 T 850000000 8MHz 2/3 1/2 QAM64 8k 1/4 NONE     # Canal 68: Fly Music, Tele 5, Tele 5 Estrellas, Tele 5 Sport
-
