@@ -4,4 +4,4 @@
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 T 212500000 7MHz 3/4 NONE QAM16 8k 1/4 NONE #K10, ARD
 T 506000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #K25, ZDF
-T 666000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE #K45, BR
+T 666000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #K45, BR
