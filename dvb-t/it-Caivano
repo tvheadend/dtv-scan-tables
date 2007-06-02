@@ -1,0 +1,14 @@
+#################################
+# DVB-T Caivano(NA) 80023 Italy #
+# update: 25/05/2007            #
+# by Nicola Costanzo            #
+#################################
+
+# MUX LA7/MTV
+T 834000000 8MHz 2/3 1/2 QAM64 8k 1/32 NONE
+# MUX MEDIASET 1
+T 810000000 8MHz 2/3 1/2 QAM64 8k 1/32 NONE
+# MUX MEDIASET 2
+T 706000000 8MHz 2/3 1/2 QAM64 8k 1/32 NONE
+# MUX-A RAI
+T 722000000 8MHz 2/3 1/2 QAM64 8k 1/32 NONE
