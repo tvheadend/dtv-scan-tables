@@ -1,0 +1,12 @@
+# Australia / Sunshine Coast
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+# SBS
+T 585500000 7MHz 2/3 NONE QAM64 8k 1/8 NONE
+# ABC
+T 767500000 7MHz 3/4 NONE QAM64 8k 1/16 NONE
+# Seven
+T 788500000 7MHz 2/3 NONE QAM64 8k 1/8 NONE
+# Nine
+T 809500000 7MHz 3/4 NONE QAM64 8k 1/16 NONE
+# Ten
+T 662625000 7MHz 3/4 NONE QAM64 8k 1/16 NONE
