@@ -1,3 +1,0 @@
-# DVB-T Salzburg / Austria
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 562000000 8MHZ 3/4 NONE QAM16 8k 1/4 NONE #K32, Salzburg
