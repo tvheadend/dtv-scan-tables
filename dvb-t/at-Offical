@@ -1,0 +1,13 @@
+# All official DVB-T Transponders run by the ORS (for Austria)
+# updated: 06/2007 (valid until "autumn 2007")
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+
+T 490000000 8MHz 3/4 NONE QAM16 8k 1/4 NONE #K23, Innsbruck
+T 498000000 8MHz 3/4 NONE QAM16 8k 1/4 NONE #K24, Bregenz
+T 562000000 8MHz 3/4 NONE QAM16 8k 1/4 NONE #K24, Salzburg (w/ overspill to Germany)
+#T 562000000 8MHz 3/4 NONE QAM16 8k 1/4 NONE #K43, Linz, Amstetten (NÖ)
+T 754000000 8MHz 3/4 NONE QAM16 8k 1/4 NONE #K56, Eisenstadt
+T 794000000 8MHz 3/4 NONE QAM16 8k 1/4 NONE #K61, Wien
+T 802000000 8MHz 3/4 NONE QAM16 8k 1/4 NONE #K62, Graz
+T 850000000 8MHz 3/4 NONE QAM16 8k 1/4 NONE #K68, St.Pölten
+#T 802000000 8MHz 3/4 NONE QAM16 8k 1/4 NONE #K69, Graz, Klagenfurt, Viktring (Ktn.)
