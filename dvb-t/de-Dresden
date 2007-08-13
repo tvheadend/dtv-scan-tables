@@ -1,0 +1,5 @@
+# DVB-T Dresden
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 538000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # Kanal 29, mdr, rbb, wdr, br
+T 594000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # Kanal 36, zdf, 3sat, kika, none
+T 618000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # Kanal 39, ard, arte, phoenix, 1festival
