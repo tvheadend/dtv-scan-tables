@@ -1,0 +1,8 @@
+# Lausanne - Switzerland (DVB-T on CityCable cable network)
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 498000000 8MHz 7/8 7/8 QAM64 8k 1/32 NONE
+T 522000000 8MHz 7/8 7/8 QAM64 8k 1/32 NONE
+T 554000000 8MHz 7/8 7/8 QAM64 8k 1/32 NONE
+T 570000000 8MHz 7/8 7/8 QAM64 8k 1/32 NONE
+T 610000000 8MHz 7/8 7/8 QAM64 8k 1/32 NONE
+T 618000000 8MHz 7/8 7/8 QAM64 8k 1/32 NONE
