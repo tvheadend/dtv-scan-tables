@@ -12,19 +12,14 @@
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 #### Nancy - Nondéfini ####
 #R1
-#T FREQ1 8MHz AUTO NONE QAM64 8k AUTO NONE
+T 522166000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 #R2
-#T FREQ2 8MHz AUTO NONE QAM64 8k AUTO NONE
+T 682166000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 #R3
-#T FREQ3 8MHz AUTO NONE QAM64 8k AUTO NONE
+T 794166000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 #R4
-#T FREQ4 8MHz AUTO NONE QAM64 8k AUTO NONE
+T 770166000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 #R5
-#T FREQ5 8MHz AUTO NONE QAM64 8k AUTO NONE
+T 498166000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 #R6
-#T FREQ6 8MHz AUTO NONE QAM64 8k AUTO NONE
-##############################################################
-# en Avril 2006, l'emetteur pour Nancy n'etait pas defini
-#  Vous devez donc modifier les frequences manuellement.
-# SVP Renvoyez le fichier mis a jour aux contacts ci-dessus.
-##############################################################
+T 826166000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
