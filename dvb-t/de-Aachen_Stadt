@@ -1,0 +1,6 @@
+# DVB-T Aachen-Stadt
+# info from http://www.nrw.ueberallfernsehen.de/fileadmin/downloads/2007-09-14_Programmbelegung_Aachen.pdf
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 514000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # ZDF
+T 602000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE # WDR AC
+T 706000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # ARD NRW
