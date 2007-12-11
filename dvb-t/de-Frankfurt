@@ -5,6 +5,8 @@
 # Start der Ausstrahlung: ARD Multiplex 2 und ZDF Multiplex ab 04.10.2004.
 # ARD Multiplex 1 sowie Private Multiplex 1 bis 3 am 06.12.2004.
 
+# ARD Multiplex 2 Kanal 57 wurde am 03.12.2007 auf Kanal 37 verschoben
+
 # Alle DVB-T Sender im Rhein-Main Gebiet senden vertikal polarisiert
 
 # Sender auf dem grossen Feldberg und FFM-Fernmeldeturm sind Rundstrahler,
@@ -21,7 +23,7 @@
 #--------------------------------------------------------------------------------
 
 # Kanal 8, ARD Multiplex 1, Grosser Feldberg 10kW, Hohe Wurzel 20kW, FFM-Turm 10kW
-T 198500000 7MHz 3/4         NONE        QAM16      8k        1/4       NONE
+T 198500000 7MHz 2/3         NONE        QAM16      8k        1/4       NONE
 
 # Kanal 22, ZDF Multiplex, Grosser Feldberg 50kW, Hohe Wurzel 100kW, FFM-Turm 50kW
 T 482000000 8MHz 2/3         NONE        QAM16      8k        1/4       NONE
@@ -29,11 +31,11 @@ T 482000000 8MHz 2/3         NONE        QAM16      8k        1/4       NONE
 # Kanal 34, Private Multiplex 1, Grosser Feldberg 50kW, Hohe Wurzel 100kW, FFM-Turm 50kW
 T 578000000 8MHz 2/3         NONE        QAM16      8k        1/4       NONE
 
+# Kanal 37, ARD Multiplex 2, Grosser Feldberg 50kW, Hohe Wurzel 100kW, FFM-Turm 50kW
+T 602000000 8MHz 2/3         NONE        QAM16      8k        1/4       NONE
+
 # Kanal 54, Private Multiplex 2, Grosser Feldberg 50kW, Hohe Wurzel 100kW, FFM-Turm 50kW
 T 738000000 8MHz 2/3         NONE        QAM16      8k        1/4       NONE
-
-# Kanal 57, ARD Multiplex 2, Grosser Feldberg 50kW, Hohe Wurzel 100kW, FFM-Turm 50kW
-T 762000000 8MHz 2/3         NONE        QAM16      8k        1/4       NONE
 
 # Kanal 64, Private Multiplex 3, Grosser Feldberg 50kW, Hohe Wurzel 100kW, FFM-Turm 50kW
 T 818000000 8MHz 2/3         NONE        QAM16      8k        1/4       NONE
