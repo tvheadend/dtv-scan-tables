@@ -1,5 +1,13 @@
 # Waiatarua, Auckland NZ
-# Currently only a TVNZ test transmission
+#
+# Channel allocation details for NZ can be found at
+# http://www.rsm.govt.nz/cms/policy-and-planning/current-projects/broadcasting/digital-television-2007-frequency-plan
+#
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-# Multiplex 1 TVNZ Test
-T 698000000 8MHz 3/4 1/2 QAM64 8k 1/32 NONE
+
+# Multiplex DA
+T 538000000 8MHz 3/4 3/4 QAM64 8k 1/16 NONE
+# Multiplex DB
+T 570000000 8MHz 3/4 3/4 QAM64 8k 1/16 NONE
+# Multiplex DC
+T 666000000 8MHz 3/4 3/4 QAM64 8k 1/16 NONE
