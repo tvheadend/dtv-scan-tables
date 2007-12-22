@@ -1,7 +1,15 @@
-# Paris - France (DVB-T transmitter of the Eiffel tower)
+# Paris - France - DVB-T transmitter of the Eiffel tower
+# contributed by Alexis de Lattre <alexis@via.ecp.fr>
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 474000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
-T 498000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
-T 522000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
-T 562000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
-T 586000000 8MHz 3/4 NONE QAM64 8k 1/8 NONE
+# R1 (France 2, France 3, Arte...)
+T 586166000 8MHz 3/4 NONE QAM64 8k 1/8 NONE
+# R2 (BFM TV, France 4, ...)
+T 474166000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+# R3 (Canal+...)
+T 522166000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+# R4 (M6, W9, ...)
+T 498166000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+# R5 (experimental mux for HDTV trials)
+T 538166000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+# R6 (TF1, NRJ12, ...)
+T 562166000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
