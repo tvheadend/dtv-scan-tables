@@ -1,5 +1,0 @@
-# Switzerland, whole country (incomplete)
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 562000000 8MHZ 5/6 1/2 QAM16 8k 1/4 NONE  # Schaffhausen
-T 578000000 8MHZ 5/6 1/2 QAM16 8k 1/16 NONE # Genève
-T 594000000 8MHZ 5/6 1/2 QAM16 8k 1/16 NONE # Genève
