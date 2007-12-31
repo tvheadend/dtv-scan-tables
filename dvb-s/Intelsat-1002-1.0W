@@ -1,0 +1,5 @@
+# Intelsat 1002 @ 1.0W
+# freq pol sr fec
+
+S 4175000 V 28000000 AUTO
+S 4180000 H 21050000 AUTO
