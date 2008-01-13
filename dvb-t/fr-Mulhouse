@@ -1,30 +1,26 @@
-# Mulhouse - France (DVB-T transmitter of Mulhouse ( Nondéfini ) )
-# Mulhouse - France (signal DVB-T transmis depuis l'émetteur de Nondéfini )
+# Mulhouse - France (DVB-T transmitter of Mulhouse ( Belvédère ) )
+# Mulhouse - France (signal DVB-T transmis depuis l'émetteur du Belvédère )
 #
-# ATTENTION ! Ce fichier a ete construit automatiquement a partir
-# des frequences obtenues sur : http://www.tvnt.net/multiplex_frequences.htm
-# en Avril 2006. Si vous constatez des problemes et voulez apporter des
-# modifications au fichier, envoyez le fichier modifie a
-# l'adresse linux-dvb@linuxtv.org (depot des fichiers d'init dvb)
-# ou a l'auteur du fichier :
-# Nicolas Estre <n_estre@yahoo.fr>
+# Fichier réalisé par :
+# IUT COLMAR DEPARTEMENT RESEAUX ET TELECOMMUNICATIONS
+# Novembre 2007
 #
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-#### Mulhouse - Nondéfini ####
-#R1
-#T FREQ1 8MHz AUTO NONE QAM64 8k AUTO NONE
-#R2
-#T FREQ2 8MHz AUTO NONE QAM64 8k AUTO NONE
-#R3
-#T FREQ3 8MHz AUTO NONE QAM64 8k AUTO NONE
-#R4
-#T FREQ4 8MHz AUTO NONE QAM64 8k AUTO NONE
-#R5
-#T FREQ5 8MHz AUTO NONE QAM64 8k AUTO NONE
-#R6
-#T FREQ6 8MHz AUTO NONE QAM64 8k AUTO NONE
-##############################################################
-# en Avril 2006, l'emetteur pour Mulhouse n'etait pas defini
-#  Vous devez donc modifier les frequences manuellement.
-# SVP Renvoyez le fichier mis a jour aux contacts ci-dessus.
-##############################################################
+
+# R1 - ch 53 : France 2, 3 (Alsace), 5, LCP et Arte (France)
+T 730000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+
+# R2 - ch 55 : I-TELE, BFM TV, Direct 8, Gulli, Virgin 17 (ex-Europe 2 TV) et France 4
+T 746000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+
+# R3 - ch 54 : TV payante : CANAL+, CANAL+ CINEMA, CANAL+ SPORT, PLANETE, CANAL J et TPS STAR
+T 738000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+
+# R4 - ch 37 : M6, W9 et NT1 + TV payante : PARIS PREMIERE, TF6 et AB1
+T 602000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+
+# R5
+# ch 66, candidat a la TVHD
+
+# R6 - ch 65 : TF 1, NRJ 12 et TMC + TV payante : Eurosport France et LCI
+T 826000000 8MHz AUTO NONE QAM64 8k AUTO NONE
