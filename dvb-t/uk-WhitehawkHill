@@ -1,14 +1,10 @@
-# Whitehawk Hill, East Sussex (Brighton)
+# UK, Whitehawk Hill
+# Auto-generated from http://www.dtg.org.uk/retailer/dtt_channels.html
+# and http://www.ofcom.org.uk/static/reception_advice/index.asp.html
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-# multiplex 1 BBC
 T 834000000 8MHz 3/4 NONE QAM16 2k 1/32 NONE
-#  multiplex 2 Digital 3&4
-T 706000000 8MHz 3/4 NONE QAM16 2k 1/32 NONE
-# multiplex A SDN
-T 746000000 8MHz 3/4 NONE QAM16 2k 1/32 NONE
-# multiplex B BBC
+T 706000000 8MHz 2/3 NONE QAM64 2k 1/32 NONE
+T 746000000 8MHz 2/3 NONE QAM64 2k 1/32 NONE
 T 690000000 8MHz 3/4 NONE QAM16 2k 1/32 NONE
-# multiplex C Crown Castle
-T 770000000 8MHz 3/4 NONE QAM16 2k 1/32 NONE
-# multiplex D Crown Castle
-T 794000000 8MHz 3/4 NONE QAM16 2k 1/32 NONE
+T 770167000 8MHz 3/4 NONE QAM16 2k 1/32 NONE
+T 794167000 8MHz 3/4 NONE QAM16 2k 1/32 NONE
