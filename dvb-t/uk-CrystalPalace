@@ -1,11 +1,10 @@
-# Crystal Palace - last update 06 Dec 2006
-# details can be found on:
-# http://www.ukfree.tv/txdetail.php?a=TQ339712
-# http://www.ofcom.org.uk/static/reception_advice/digital_trans_guide/show_transmitter.asp-siteID=66.html
+# UK, Crystal Palace
+# Auto-generated from http://www.dtg.org.uk/retailer/dtt_channels.html
+# and http://www.ofcom.org.uk/static/reception_advice/index.asp.html
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 505833000 8MHz 3/4 NONE QAM16 2k 1/32 NONE  #Mux1, Ch25
-T 481833000 8MHz 2/3 NONE QAM64 2k 1/32 NONE  #Mux2, Ch22
-T 561833000 8MHz 2/3 NONE QAM64 2k 1/32 NONE  #MuxA, Ch32
-T 529833000 8MHz 3/4 NONE QAM16 2k 1/32 NONE  #MuxB, Ch28
-T 578167000 8MHz 3/4 NONE QAM16 2k 1/32 NONE  #MuxC, Ch34
-T 537833000 8MHz 3/4 NONE QAM16 2k 1/32 NONE  #MuxD, Ch29
+T 505833000 8MHz 3/4 NONE QAM16 2k 1/32 NONE
+T 481833000 8MHz 2/3 NONE QAM64 2k 1/32 NONE
+T 561833000 8MHz 2/3 NONE QAM64 2k 1/32 NONE
+T 529833000 8MHz 3/4 NONE QAM16 2k 1/32 NONE
+T 578167000 8MHz 3/4 NONE QAM16 2k 1/32 NONE
+T 537833000 8MHz 3/4 NONE QAM16 2k 1/32 NONE
