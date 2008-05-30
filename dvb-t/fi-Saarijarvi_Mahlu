@@ -1,5 +1,4 @@
 # automatically generated from http://www.digitv.fi/sivu.asp?path=1;8224;9519
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 610000000 8MHz 2/3 NONE QAM64 8k 1/8 NONE
-T 698000000 8MHz 2/3 NONE QAM64 8k 1/8 NONE
-T 594000000 8MHz 2/3 NONE QAM64 8k 1/8 NONE
+T 482000000 8MHz 2/3 NONE QAM64 8k 1/8 NONE
+T 522000000 8MHz 2/3 NONE QAM64 8k 1/8 NONE
