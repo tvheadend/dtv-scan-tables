@@ -1,23 +1,23 @@
 # Trieste, Italy
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 # MUX MEDIASET 1 (Class News, 24Ore TV, Coming soon, BBC World, Boing, Mediaset Premium)
-T 778000000 8MHz 2/3 1/1 QAM64 8k 1/32 NONE
-T 474000000 8MHz 2/3 1/1 QAM64 8k 1/32 NONE
+T 778000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
+T 474000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 #
 # MUX-B RAI (Rai Doc-Futura, RaiSportSAT, RaiNotizie24, Rai EDU1, Sat2000, Radio1, Radio2, Radio3, FDAuditorium)
-T 682000000 8MHz 2/3 1/1 QAM64 8k 1/32 NONE
+T 682000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 #
 # MUX-A RAI (Rai Uno, Rai Due, Rai Tre, Rai Utile)
-T 602000000 8MHz 2/3 1/1 QAM64 8k 1/32 NONE
+T 602000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 #
 # MUX DFREE (Rete 4, Italia 1, Sportitalia, LCI / Prima, Si Live24)
-T 754000000 8MHz 2/3 1/1 QAM64 8k 1/32 NONE
+T 754000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 #
 # MUX (All Music)
-T 666000000 8MHz 2/3 1/1 QAM64 8k 1/32 NONE
+T 666000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 #
 # MUX (Triveneta)
-T 698000000 8MHz 2/3 1/1 QAM64 8k 1/32 NONE
+T 698000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 #
 # MUX (La7 Telemarket Retecapri MTv italia Sitcom Uno)
-T 674000000 8MHz 2/3 1/1 QAM64 8k 1/32 NONE
+T 674000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE

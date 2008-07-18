@@ -3,8 +3,7 @@
 # see : http://tnt.niv2.com/69000-LYON.html
 # contact : Nicolas Estre <n_estre@yahoo.fr>
 
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval
-hierarchy
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 # R1 : Canal 56
 T 754167000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 # R2 : Canal 36
