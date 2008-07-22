@@ -2,4 +2,4 @@
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 
 #RAS DVB-t  NETWORK
-T 698000000 8MHz 2/3 2/3 QAM16 8k 1/4 NONE
+T 698000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE

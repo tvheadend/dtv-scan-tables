@@ -1,8 +1,8 @@
 # Funciona correctamente en Las Palmas de Gran Canaria (24-4-2007)
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 786000000 8MHz 2/3 1/2 QAM64 8k 1/4 NONE     # Canal 60: TVE1, TVE2, 24H TVE, Clan/TVE, RNE, RNEC, RNE3, Lanzadera, EPG, Digitext, Meteo, Bolsa, Trafico, Empleat
+T 786000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 60: TVE1, TVE2, 24H TVE, Clan/TVE, RNE, RNEC, RNE3, Lanzadera, EPG, Digitext, Meteo, Bolsa, Trafico, Empleat
 T 826000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 65: TV C, TV C2
-T 834000000 8MHz 2/3 1/2 QAM64 8k 1/4 NONE     # Canal 66: Net TV, Teledeporte, Veo TV1, SETenVeo, Radio Intereconomía Lanzadera, EPG, Digitext, Meteo, Bolsa, Trafico, Empleat
-T 842000000 8MHz 2/3 1/2 QAM64 8k 1/4 NONE     # Canal 67: CNN+, Cuatro, La Sexta 1, 40 Latino TV, EPG Soge V2 5
-T 850000000 8MHz 2/3 1/2 QAM64 8k 1/4 NONE     # Canal 68: Fly Music, Punto Radio, Tele 5, Tele 5 Estrellas, Tele 5 Sport
-T 858000000 8MHz 2/3 1/2 QAM64 8k 1/4 NONE     # Canal 69: Antena 3, Antena.Neox, Antena.Nova, Telehit, Onda Cero, Europa FM, Onda Melodia, A3Lanzadera, A3Portal, EPGA3, A3Ticker
+T 834000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 66: Net TV, Teledeporte, Veo TV1, SETenVeo, Radio Intereconomía Lanzadera, EPG, Digitext, Meteo, Bolsa, Trafico, Empleat
+T 842000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 67: CNN+, Cuatro, La Sexta 1, 40 Latino TV, EPG Soge V2 5
+T 850000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 68: Fly Music, Punto Radio, Tele 5, Tele 5 Estrellas, Tele 5 Sport
+T 858000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 69: Antena 3, Antena.Neox, Antena.Nova, Telehit, Onda Cero, Europa FM, Onda Melodia, A3Lanzadera, A3Portal, EPGA3, A3Ticker

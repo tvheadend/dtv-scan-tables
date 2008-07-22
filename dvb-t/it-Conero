@@ -1,8 +1,8 @@
 # Italia / Conero (it-Conero) -- mailto: simon <f.simon@email.it>
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 # C50
-T 706000000 8MHz 2/3 1/2 QAM64 8k 1/32 NONE
+T 706000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 # C46
-T 674000000 8MHz 2/3 1/2 QAM64 8k 1/32 NONE
+T 674000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
 # C21
-T 474000000 8MHz 2/3 1/2 QAM64 8k 1/32 NONE
+T 474000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
