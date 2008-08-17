@@ -1,5 +1,5 @@
-# Cluses - France (DVB-T transmitter of Cluses ( Nondéfini ) )
-# Cluses - France (signal DVB-T transmis depuis l'émetteur de Nondéfini )
+# Cluses - France (DVB-T transmitter of Cluses ( St Sigismond ) )
+# Cluses - France (signal DVB-T transmis depuis l'émetteur de St Sigismond )
 #
 # ATTENTION ! Ce fichier a ete construit automatiquement a partir
 # des frequences obtenues sur : http://www.tvnt.net/multiplex_frequences.htm
@@ -12,19 +12,12 @@
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 #### Cluses - Nondéfini ####
 #R1
-#T FREQ1 8MHz AUTO NONE QAM64 8k AUTO NONE
+T 490000000 8MHz AUTO NONE QAM64 8k AUTO NONE
 #R2
-#T FREQ2 8MHz AUTO NONE QAM64 8k AUTO NONE
+T 514000000 8MHz AUTO NONE QAM64 8k AUTO NONE
 #R3
-#T FREQ3 8MHz AUTO NONE QAM64 8k AUTO NONE
+T 538000000 8MHz AUTO NONE QAM64 8k AUTO NONE
 #R4
-#T FREQ4 8MHz AUTO NONE QAM64 8k AUTO NONE
+T 586000000 8MHz AUTO NONE QAM64 8k AUTO NONE
 #R5
-#T FREQ5 8MHz AUTO NONE QAM64 8k AUTO NONE
-#R6
-#T FREQ6 8MHz AUTO NONE QAM64 8k AUTO NONE
-##############################################################
-# en Avril 2006, l'emetteur pour Cluses n'etait pas defini
-#  Vous devez donc modifier les frequences manuellement.
-# SVP Renvoyez le fichier mis a jour aux contacts ci-dessus.
-##############################################################
+T 618000000 8MHz AUTO NONE QAM64 8k AUTO NONE
