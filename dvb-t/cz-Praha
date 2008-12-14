@@ -1,5 +1,10 @@
 # DVB-T Praha (Prague, Czech Republic)
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 506000000 8MHz 2/3 NONE QAM64 8k 1/8 NONE
-T 674000000 8MHz 2/3 NONE QAM64 8k 1/16 NONE
+# MUX 1 Ceska televize
+T 730000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+# MUX 2 Ceske radiokomunikace
+T 634000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+# MUX 3 Czech Digital Group
+T 778000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+# MUX 4 Telefonica O2
 T 818000000 8MHz 2/3 NONE QAM64 8k 1/8 NONE
