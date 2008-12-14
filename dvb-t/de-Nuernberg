@@ -1,8 +1,8 @@
 # DVB-T Nuernberg
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 184500000 7MHz 3/4 NONE QAM16 8k 1/4 NONE     # ard
-T 578000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE     # zdf
-T 626000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE     # prosieben
-T 778000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE     # br
-T 786000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE     # franken
-T 834000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE     # rtl
+T 184500000 7MHz 3/4 NONE QAM16 8k 1/4 NONE     # K06 ard
+T 578000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE     # K34 zdf
+T 682000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE     # K47 br
+T 722000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE     # K52 pro7sat1
+T 786000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE     # K60 franken
+T 834000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE     # K66 rtl
