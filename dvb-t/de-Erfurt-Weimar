@@ -1,5 +1,0 @@
-# DVB-T Erfurt-Weimar
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 474000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # Kanal 21, ARD, arte, Phoenix, Eins festival
-T 522000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE # Kanal 27, MDR Thüringen, rbb, WDR, hr
-T 706000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE # Kanal 50, ZDF, ZDF info / 3sat, KiKA / ZDF doku, MHP

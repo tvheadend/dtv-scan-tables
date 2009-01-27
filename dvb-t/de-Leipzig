@@ -1,5 +1,0 @@
-# DVB-T Leipzig (Germany)
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 205500000 7MHz 2/3 NONE QAM64 8k 1/16 NONE # mdr rbb wdr brs
-T 482000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE  # zdf kika 3sat
-T 498000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE  # ard einsfestival arte phoenix
