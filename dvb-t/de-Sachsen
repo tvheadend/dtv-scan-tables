@@ -1,0 +1,12 @@
+# DVB-T Sachsen
+# Created from http://www.ueberallfernsehen.de/data/senderliste_25_11_2008.pdf
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 205500000 7MHz 2/3 NONE QAM64 8k 1/16 NONE # CH09: MDR-SN, rbb, BR, WDR
+T 482000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH22: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
+T 498000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # CH24: Das Erste, arte, Phoenix, EinsFestival
+T 506000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # CH25: Das Erste, arte, Phoenix, EinsFestival
+T 522000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # CH27: MDR-SN, rbb, BR, WDR
+T 538000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # CH29: MDR-SN, rbb, BR, WDR
+T 562000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # CH32: MDR-SN, rbb, BR, WDR
+T 594000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH36: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
+T 618000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # CH39: Das Erste, arte, Phoenix, EinsFestival

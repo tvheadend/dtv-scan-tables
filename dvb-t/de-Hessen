@@ -1,0 +1,19 @@
+# DVB-T Hessen
+# Created from http://www.ueberallfernsehen.de/data/senderliste_25_11_2008.pdf
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 198500000 7MHz 2/3 NONE QAM16 8k 1/4 NONE # CH08: Phoenix, BR, SWR-RP
+T 482000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH22: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
+T 498000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH24: Phoenix, BR, SWR-RP, WDR
+T 506000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH25: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
+T 522000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH27: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
+T 562000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH32: Das Erste, hr, EinsExtra/arte
+T 578000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH34: RTL, RTL II, Super RTL, VOX
+T 602000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH37: Das Erste, hr, EinsExtra/arte
+T 618000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH39: Phoenix, BR, SWR-RP, mdr
+T 642000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH42: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
+T 650000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH43: Das Erste, hr, EinsExtra/arte
+T 722000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH52: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
+T 730000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH53: BR, hr, SWR-BW, WDR
+T 738000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH54: Pro7, Sat.1, Kabel1, N24
+T 746000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH55: Phoenix, NDR, mdr, WDR
+T 818000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH64: Tele5, Eurosport, rheinmaintv

@@ -1,8 +1,0 @@
-# DVB-T Kiel
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 474000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # Kanal 21, ZDF, ZDFInfokanal/3Sat, KI.KA/ ZDFdokukanal, MHP: ZDFdigitext
-T 586000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # Kanal 35, Kabel 1, N24, ProSieben, SAT.1 Fernsehen
-T 618000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # Kanal 39, NDR, WDR, mdr, Bayerisches Fernsehen
-T 666000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # Kanal 45, RTL Television, RTL II, Super RTL, VOX
-T 682000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # Kanal 47, ARD, Phoenix, arte, Eins Extra
-T 762000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # Kanal 57, EuroSport, 9Live, TELE 5

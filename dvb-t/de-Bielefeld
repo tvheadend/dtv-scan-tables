@@ -1,7 +1,0 @@
-# DVB-T Ostwestfalen
-# http://www.nrw.ueberallfernsehen.de/fileadmin/downloads/DVB-T_P3.1_OWL.pdf
-
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 514000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE
-T 554000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE
-T 570000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE

@@ -1,4 +1,0 @@
-# DVB-T Schwerin M/V
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 514000000 8MHz 3/4 NONE QAM16 8k 1/4 NONE #ARD, MDR S-Anhalt, NDR MV, NDR SH, rbb Berlin
-T 738000000 8MHz 3/4 NONE QAM16 8k 1/4 NONE #ZDF, Doku/KiKa, Info/3sat
