@@ -4,6 +4,7 @@
 T 474000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH21: NDR NDS, WDR/NDR SH, MDR/NDR MVP, HR/NDR HH
 T 482000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH22: Das Erste (RB), RB TV (NDR NDS), arte, Phoenix
                                             # CH22: Das Erste, arte, Phoenix, EinsExtra
+                                            # CH22: NDR NDS, WDR/NDR SH, MDR/NDR MVP, HR/NDR HH
 T 490000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH23: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
 T 498000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH24: RTL, RTL II, Super RTL, VOX
                                             # CH24: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
@@ -15,6 +16,7 @@ T 570000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH33: Das Erste, arte, Phoenix, Ei
 T 586000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH35: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
 T 594000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH36: NDR NDS, WDR/NDR SH, MDR/NDR MVP, HR/NDR HH
 T 602000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH37: NDR NDS, WDR/NDR SH, MDR/NDR MVP, HR/NDR HH
+T 610000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH38: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
 T 634000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH41: Das Erste, arte, Phoenix, EinsExtra
 T 642000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH42: RTL, RTL II, Super RTL, VOX
                                             # CH42: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
@@ -26,6 +28,7 @@ T 674000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH46: NDR NDS, WDR/NDR SH, MDR/NDR
 T 682000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH47: Das Erste, arte, Phoenix, EinsExtra
 T 690000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH48: Das Erste, arte, Phoenix, EinsExtra
 T 698000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH49: Pro7, Sat.1, Kabel1, N24
+T 706000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH50: Das Erste, arte, Phoenix, EinsExtra
 T 714000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH51: NDR NDS, WDR/NDR SH, MDR/NDR MVP, HR/NDR HH
 T 746000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH55: Das Erste, arte, Phoenix, EinsExtra
 T 754000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH56: NDR NDS, WDR/NDR SH, MDR/NDR MVP, HR/NDR HH
