@@ -1,6 +1,6 @@
 # The Netherlands, whole country
-# Created from http://www.radio.nl/fmtv
-# and http://www.rtvvis.nl/rtvvis-freq.tv%20DVB-T%20Lokaal%20NL.htm
+# Created from http://radio-tv-nederland.nl/TV%20zenderlijst%20Nederland.xls
+# and http://radio-tv-nederland.nl/dvbt/dvbt-lokaal.html
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 T 474000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE
 T 474000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
