@@ -1,5 +1,6 @@
 # Denmark, whole country
 # Created from http://www.digi-tv.dk/Indhold_og_tilbud/frekvenser.asp
+# and http://www.digi-tv.dk/Sendenettets_opbygning/
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 T 482000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
 T 506000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
