@@ -1,0 +1,18 @@
+# Montbéliard - France (DVB-T transmitter of Montbéliard "Fort Lachaux" )
+# Montbéliard - France (signal DVB-T transmis depuis l'émetteur de Fort Lachaux )
+#
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+# multiplex R1 (GR1), canal 29V + offset 167000 : FRANCE 2 SD , FRANCE 5 , ARTE SD , La Chaîne Parlementaire/Public Sénat , FRANCE 3 , FRANCE 3 Franche-Comté
+T 538167000 8MHz AUTO NONE QAM64 8k AUTO NONE
+# multiplex R3 (CNH), canal 43V + offset 167000 : CANAL+ , CANAL+HD , CANAL+ CINEMA , CANAL+ SPORT , PLANETE , CANAL J et TPS STAR
+T 650167000 8MHz AUTO NONE QAM64 8k AUTO NONE
+# multiplex R2 (NTN), canal 55V + offset 167000 : DIRECT 8 , BFM TV , I>TELE , FRANCE 4 , VIRGIN 17 , GULLI et France 4
+T 746167000 8MHz AUTO NONE QAM64 8k AUTO NONE
+# multiplex R6 (SMR6), canal 32V + offset 167000 : TF1 SD , NRJ 12 , TMC , EUROSPORT , LCI et TF6
+T 562167000 8MHz AUTO NONE QAM64 8k AUTO NONE
+# Télévision Suisse, canal 56V + offset 000000 : TSR1 , TSR2 , TSI1 et SF 1
+T 754000000 8MHz AUTO NONE QAM64 8k AUTO NONE
+# multiplex R4 (MULTI4), canal 58V + offset 167000 : ARTE HD , PARIS PREMIERE, M6 SD , W9 , NT1
+T 770167000 8MHz AUTO NONE QAM64 8k AUTO NONE
+# multiplex R5 (???), canal ??? : TF1 HD , FRANCE 2 HD, M6 HD
+# canal d'émission pas encore défini (février 2009)
