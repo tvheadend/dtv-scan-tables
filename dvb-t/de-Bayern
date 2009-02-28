@@ -1,5 +1,5 @@
 # DVB-T Bayern
-# Created from http://www.ueberallfernsehen.de/data/senderliste_25_11_2008.pdf
+# Created from http://www.ueberallfernsehen.de/data/senderliste.pdf
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 T 184500000 7MHz 3/4 NONE QAM16 8k 1/4 NONE # CH06: Das Erste, arte, Phoenix, EinsPlus
 T 191500000 7MHz 3/4 NONE QAM16 8k 1/4 NONE # CH07: Das Erste, arte, Phoenix, EinsPlus

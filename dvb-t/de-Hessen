@@ -1,5 +1,5 @@
 # DVB-T Hessen
-# Created from http://www.ueberallfernsehen.de/data/senderliste_25_11_2008.pdf
+# Created from http://www.ueberallfernsehen.de/data/senderliste.pdf
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 T 198500000 7MHz 2/3 NONE QAM16 8k 1/4 NONE # CH08: Phoenix, BR, SWR-RP
 T 474000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH21: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
