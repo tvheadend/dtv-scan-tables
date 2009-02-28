@@ -1,5 +1,5 @@
 # DVB-T Berlin
-# Created from http://www.ueberallfernsehen.de/data/senderliste_25_11_2008.pdf
+# Created from http://www.ueberallfernsehen.de/data/senderliste.pdf
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 T 177500000 7MHz 3/4 NONE QAM16 8k 1/8 NONE # CH05: HSE 24/MONA, FAB, WDR, SWR
 T 191500000 7MHz 2/3 NONE QAM16 8k 1/8 NONE # CH07: MDR, NDR, arte

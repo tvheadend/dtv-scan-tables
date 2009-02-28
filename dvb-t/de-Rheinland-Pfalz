@@ -1,5 +1,5 @@
 # DVB-T Rheinland-Pfalz
-# Created from http://www.ueberallfernsehen.de/data/senderliste_25_11_2008.pdf
+# Created from http://www.ueberallfernsehen.de/data/senderliste.pdf
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 T 530000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH28: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
 T 546000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH30: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
