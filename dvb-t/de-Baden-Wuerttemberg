@@ -2,6 +2,8 @@
 # Created from http://www.ueberallfernsehen.de/data/senderliste.pdf
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 T 482000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH22: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
+T 490000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH23: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
+T 514000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH26: Das Erste, arte, Phoenix, EinsPlus
 T 522000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH27: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
 T 570000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH33: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
 T 618000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH39: SWR-BW, BR, hr, WDR
@@ -10,7 +12,9 @@ T 634000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH41: SWR-BW, BR, hr, WDR
 T 650000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH43: Das Erste, arte, Phoenix, EinsPlus
 T 698000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH49: SWR-BW, BR, hr, WDR
 T 706000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH50: Das Erste, arte, Phoenix, EinsPlus
+                                            # CH50: SWR-BW, BR, hr, WDR
 T 722000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH52: Das Erste, arte, Phoenix, EinsPlus
-T 730000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH53: SWR-BW, BR, hr, WDR
+T 730000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH53: Das Erste, arte, Phoenix, EinsPlus
+                                            # CH53: SWR-BW, BR, hr, WDR
 T 738000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH54: Das Erste, arte, Phoenix, EinsPlus
 T 786000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH60: Das Erste, arte, Phoenix, EinsPlus
