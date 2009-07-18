@@ -9,4 +9,4 @@ T 594000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH36: Das Erste, NDR MVP, RBB, MDR
 T 626000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH40: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
 T 674000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH46: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
 T 714000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH51: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
-T 738000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH54: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
+T 730000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH53: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
