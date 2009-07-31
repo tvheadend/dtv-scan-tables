@@ -1,0 +1,8 @@
+# Hungary / Kabhegy
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+# C.multiplex UHF-61:
+# Duna TV HD, Duna-II. Autonomia, RTL Klub, TV-2 (Hungary)
+T 794000000 8MHz 3/4 NONE QAM64 8k 1/8 NONE
+# A2.multiplex UHF-64:
+# MTV-1 HD Sopron, MTV-2 HD, ATV (Hungary), Hir TV, MR-1 Kossuth R, MR-2 Petofi R, MR-3 Bartok R, Katolikus R
+T 818000000 8MHz 3/4 NONE QAM64 8k 1/8 NONE
