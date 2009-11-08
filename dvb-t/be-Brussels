@@ -1,5 +1,5 @@
 # Brussels - Belgium (Transmitters of the RTBF and the VRT)
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 754000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE # RTBF
-T 746000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE # BE-TV
-T 482000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE # VRT
+T 754000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE # RTBF
+T 746000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE # BE-TV
+T 482000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE # VRT
