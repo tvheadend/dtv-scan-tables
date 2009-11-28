@@ -1,5 +1,6 @@
 # DVB-T Alfabia, Mallorca, Balearic Islands, Spain.
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 602000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # TVM, Canal4, OnaMallorca Radio
 T 810000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # C.63: 24h, 50 aniv., ClanTV, La 2, TVE1; RNE 1, RNE 3, RNE C; Digitext, EPG, Lanzadera.
 T 826000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # C.65: IB3, Aprenda Ingles TV
 T 834000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # C.66: NetTV, Teledeporte, VeoTV1, VeoTV2.
