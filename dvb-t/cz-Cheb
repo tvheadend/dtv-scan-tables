@@ -1,0 +1,6 @@
+# DVB-T Cheb (Cheb, Czech Republic)
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 538000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE
+T 594000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE
+T 626000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE
+T 834000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
