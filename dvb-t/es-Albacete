@@ -1,8 +1,10 @@
-# Spain, Albacete
+# Spain, Albacete - Update 2009/12/20 (Freud)
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 778000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 59: La Primera, La 2, Canal 24H, Clan/TVE 50, RNE1, RNE Clásica, RNE 3
-T 810000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 63: CLMTV
-T 834000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 66: Veo, Veo 2, Net TV, Teledeporte
-T 842000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 67: Cuatro, CNN+, 40 Latino, La Sexta 1
-T 850000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 68: Telecinco, Telecinco Sport, Telecinco Estrellas, Fly Music
-T 858000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 69: Antena 3, Antena Neox, Antena Nova, La Sexta 2
+T 618000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 39: La Regional, AB TeVe/TVCM, CRN, La Tribuna TV
+T 682000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 47: CNC, Vision6, ABTeVe
+T 778000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 59: La 1, La 2, 24H, Clan, RNE1, RNE Clásica, RNE 3
+T 810000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 63: CMT, CMT2, RCM
+T 834000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 66: Veo7, Sony TV en Veo, Tienda en Veo, Intereconomía, Teledeporte, Radio Intereconomía, Radio Marca, esRadio, Vaughan Radio
+T 842000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 67: Cuatro, CNN+, 40 Latino, Canal Club, La Sexta, SER, 40 Principales, Cadena Dial
+T 850000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 68: Telecinco, La Siete, FDF, CincoShop, Disney Channel, Punto Radio
+T 858000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE    # Canal 69: Antena 3, Antena.Neox, Antena.Nova, Gol Televisión, Onda Cero, Europa FM, Onda Melodía
