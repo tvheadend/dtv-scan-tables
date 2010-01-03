@@ -1,0 +1,8 @@
+# DVB-T Kojal (Brno, Czech Republic)
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+# CT - Ceska televize (multiplex 1)
+T 538000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+# CRa - Ceske radiokomunikace (multiplex 2)
+T 626000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+# Czech Digital Group (multiplex 3)
+T 778000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
