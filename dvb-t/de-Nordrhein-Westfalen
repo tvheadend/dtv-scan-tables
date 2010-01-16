@@ -5,13 +5,13 @@ T 474000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH21: Das Erste, arte, Phoenix, Ei
 T 482000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE # CH22: WDR-Wuppertal, NDR/WDR-Düsseldorf, MDR, SWR
 T 506000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE # CH25: WDR-Dortmund, NDR/WDR-Essen, MDR, SWR
 T 514000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH26: Das Erste, arte, Phoenix, EinsFestival
-                                            # CH26: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
+                                            # CH26: ZDF, 3sat, KiKa / ZDFneo, ZDFinfokanal
 T 522000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE # CH27: WDR-Siegen, NDR, MDR, SWR
 T 538000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH29: RTL, RTL II, Super RTL, VOX
-T 546000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH30: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
+T 546000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH30: ZDF, 3sat, KiKa / ZDFneo, ZDFinfokanal
 T 554000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE # CH31: WDR-Bielefeld, NDR/WDR-Siegen, MDR, SWR
-T 570000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH33: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
-T 586000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH35: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
+T 570000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH33: ZDF, 3sat, KiKa / ZDFneo, ZDFinfokanal
+T 586000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH35: ZDF, 3sat, KiKa / ZDFneo, ZDFinfokanal
 T 594000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH36: CNN, Eurosport, Tele5, VIVA
 T 602000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE # CH37: WDR-Aachen, NDR/WDR-Köln, MDR, SWR
 T 666000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE # CH45: WDR-Münster, NDR/WDR-Dortmund, MDR, SWR
@@ -23,5 +23,5 @@ T 722000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH52: CNN, Eurosport, Tele5, VIVA
 T 730000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH53: Pro7, Sat.1, Kabel1, N24
 T 746000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH55: Pro7, Sat.1, Kabel1, N24
 T 762000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE # CH57: WDR-Essen, NDR/WDR-Dortmund, MDR, SWR
-T 778000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH59: ZDF, 3sat, KiKa / ZDFdokukanal, ZDFinfokanal
+T 778000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH59: ZDF, 3sat, KiKa / ZDFneo, ZDFinfokanal
 T 786000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH60: Das Erste, arte, Phoenix, EinsFestival
