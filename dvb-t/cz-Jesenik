@@ -1,0 +1,8 @@
+# DVB-T Praded (Jesenik, Czech Republic)
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+# MUX 1 Ceska televize
+T 594000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+# MUX 2 Ceske radiokomunikace
+T 730000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+# MUX 3 Czech Digital Group
+T 714000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
