@@ -1,5 +1,0 @@
-# Croatia - Rijeka
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 490000000 8MHz 1/2 NONE QPSK 2k 1/4 NONE
-T 530000000 8MHz 3/4 NONE QAM64 8k 1/4 NONE
-T 730000000 8MHz 3/4 NONE QAM64 8k 1/4 NONE
