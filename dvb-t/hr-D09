@@ -1,5 +1,0 @@
-# DVB-T for Croatia, region D 09
-# http://213.147.101.105/DVBT_MUXA_MUXB_Popis_odasiljackih_lokacija.html
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 714000000 8MHz 3/4 NONE QAM64 8k 1/4 NONE		# CH51 MUX A
-T 778000000 8MHz 3/4 NONE QAM64 8k 1/4 NONE		# CH59 MUX B

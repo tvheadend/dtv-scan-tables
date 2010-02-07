@@ -1,0 +1,24 @@
+# Croatia, whole country
+# Created from http://www.hrt.hr/index.php?id=173&tx_ttnews[cat]=102&tx_ttnews[tt_news]=56725&tx_ttnews[backPid]=185&cHash=bdf5a53e91
+# and http://213.147.101.105/DVBT_MUXA_MUXB_Popis_odasiljackih_lokacija.html
+# and http://www.hrt.hr/index.php?id=173&tx_ttnews[cat]=102&tx_ttnews[tt_news]=7456&tx_ttnews[backPid]=185&cHash=d02ef00f9b
+# and http://www.oiv.hr/default.asp?ru=129&gl=200907100000002&sid=&jezik=0
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 490000000 8MHz 3/4 NONE QAM64 8k 1/4 NONE
+T 530000000 8MHz 3/4 NONE QAM64 8k 1/4 NONE
+T 546000000 8MHz 3/4 NONE QAM64 8k 1/4 NONE
+T 570000000 8MHz 2/3 NONE QAM64 8k 1/8 NONE
+T 570000000 8MHz 3/4 NONE QAM64 8k 1/4 NONE
+T 594000000 8MHz 2/3 NONE QAM64 8k 1/8 NONE
+T 618000000 8MHz 3/4 NONE QAM64 8k 1/4 NONE
+T 642000000 8MHz 3/4 NONE QAM64 8k 1/4 NONE
+T 650000000 8MHz 2/3 NONE QAM64 8k 1/8 NONE
+T 658000000 8MHz 3/4 NONE QAM64 8k 1/4 NONE
+T 666000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+T 682000000 8MHz 3/4 NONE QAM64 8k 1/4 NONE
+T 690000000 8MHz 3/4 NONE QAM64 8k 1/4 NONE
+T 714000000 8MHz 3/4 NONE QAM64 8k 1/4 NONE
+T 730000000 8MHz 3/4 NONE QAM64 8k 1/4 NONE
+T 738000000 8MHz 3/4 NONE QAM64 8k 1/4 NONE
+T 754000000 8MHz 2/3 NONE QAM64 8k 1/8 NONE
+T 778000000 8MHz 3/4 NONE QAM64 8k 1/4 NONE
