@@ -1,5 +1,8 @@
-# DVB-T Sevilla (Andalucia)                   by x2 15 Agosto 2006
+# DVB-T Sevilla (Spain) by x2 15-Ago-2006  modificado 4 Marzo 2010
 # T freq bw fec_hi fec_lo mod transm-mode guard-interval hierarchy
+T 666000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE                  # C45
+T 738000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE                  # C54
+T 754000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE                  # C56
 T 762000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE                  # C57
 T 794000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE                  # C61
 T 834000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE                  # C66
