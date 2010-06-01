@@ -1,12 +1,12 @@
 # DVB-T Berlin
 # Created from http://www.ueberallfernsehen.de/data/senderliste.pdf
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 177500000 7MHz 3/4 NONE QAM16 8k 1/8 NONE # CH05: Tele 5, HSE 24 / MonaTV(+ DMAX / Bibel.TV), WDR, SWR (BW / RP)
+T 177500000 7MHz 3/4 NONE QAM16 8k 1/8 NONE # CH05: Tele 5, HSE 24, WDR, SWR (BW / RP)
 T 191500000 7MHz 2/3 NONE QAM16 8k 1/8 NONE # CH07: MDR, NDR, arte
 T 506000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE # CH25: RTL, RTL II, Super RTL, VOX
 T 522000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE # CH27: Das Erste, RBB, Phoenix, EinsExtra
 T 570000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH33: ZDF, 3sat, KiKa / ZDFneo, ZDFinfokanal
-T 618000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # CH39: Das Vierte, Bibel.TV, QVC, TVP Polonia (ab Januar 2010)
+T 618000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # CH39: Das Vierte, Bibel.TV, QVC,
 T 658000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE # CH44: Pro7, Sat.1, Kabel1, N24
-T 754000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE # CH56: Eurosport, TV.B, DSF, Neun live
-T 778000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE # CH59: n-tv, EuroNews / Channel 21 Shop, + 14 Radioprogramme
+T 754000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE # CH56: Eurosport, TV.B, Sport1, 9Live
+T 778000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE # CH59: n-tv, EuroNews / Channel 21 Shop, PLACE2BE + 8 Radioprogramme
