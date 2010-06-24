@@ -1,5 +1,11 @@
 # DVB-T Poprad (Poprad, Slovak Republic)
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 
-# on channel 66
+# 1.st multiplex - on channel 66
 T 834000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+
+# 2.st multiplex (commercial) - on channel 55
+T 746000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+
+# 3.st multiplex (public) - on channel 24
+T 498000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
