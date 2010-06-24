@@ -1,5 +1,12 @@
 # DVB-T Trencin (Trencin, Slovak Republic)
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 
-# on channel 69
+# 1.st multiplex - on channel 69
 T 858000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+
+# 2.st multiplex (commercial) - on channel 52/56
+T 722000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+T 754000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+
+# 3.st multiplex (public) - on channel 57
+T 762000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE

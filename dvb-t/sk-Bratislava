@@ -1,5 +1,11 @@
 # DVB-T Bratislava (Bratislava, Slovak Republic)
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 
-# on channel 66
+# 1.st multiplex - on channel 66
 T 834000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+
+# 2.st multiplex (commercial) - on channel 56
+T 754000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+
+# 3.st multiplex (public) - on channel 27
+T 522000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE

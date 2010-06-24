@@ -1,5 +1,11 @@
 # DVB-T Namestovo (Namestovo, Slovak Republic)
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 
-# on channel 68
+# 1.st multiplex - on channel 68
 T 850000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+
+# 2.st multiplex (commercial) - on channel 59
+T 778000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+
+# 3.st multiplex (public) - on channel 26
+T 514000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE

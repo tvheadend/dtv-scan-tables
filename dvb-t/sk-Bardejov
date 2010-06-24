@@ -1,5 +1,11 @@
 # DVB-T Bardejov (Bardejov, Slovak Republic)
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 
-# on channel 62
+# 1.st multiplex - on channel 62
 T 802000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+
+# 2.st multiplex (commercial) - on channel 40
+T 626000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+
+# 3.st multiplex (public) - on channel 54
+T 738000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
