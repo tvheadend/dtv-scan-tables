@@ -4,38 +4,37 @@
 T 191500000 7MHz 3/4 NONE QAM16 8k 1/4 NONE # CH07: Das Erste, arte, Phoenix, EinsPlus
 T 212500000 7MHz 3/4 NONE QAM16 8k 1/4 NONE # CH10: Das Erste, arte, Phoenix, EinsPlus
 T 490000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH23: ZDF, 3sat, KiKa / ZDFneo, ZDFinfokanal
-T 506000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH25: BR, BRalpha, SWR, EinsExtra
+T 506000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH25: Bayerisches Fernsehen, BR-alpha, SWR, EinsExtra
                                             # CH25: ZDF, 3sat, KiKa / ZDFneo, ZDFinfokanal
-T 522000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH27: BR, BRalpha, SWR, EinsExtra
-T 530000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH28: BR, BRalpha, SWR, EinsExtra
+T 522000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH27: Bayerisches Fernsehen, BR-alpha, SWR, EinsExtra
+T 530000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH28: Bayerisches Fernsehen, BR-alpha, SWR, EinsExtra
                                             # CH28: ZDF, 3sat, KiKa / ZDFneo, ZDFinfokanal
 T 538000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH29: Das Erste, arte, Phoenix, EinsPlus
 T 546000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH30: Das Erste, arte, Phoenix, EinsPlus
 T 570000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH33: ZDF, 3sat, KiKa / ZDFneo, ZDFinfokanal
-T 578000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH34: RTL, RTL II, Super RTL, VOX
+T 578000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH34: RTL, RTL 2, Super RTL, VOX
                                             # CH34: ZDF, 3sat, KiKa / ZDFneo, ZDFinfokanal
 T 586000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH35: ZDF, 3sat, KiKa / ZDFneo, ZDFinfokanal
-T 594000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH36: BR, BRalpha, SWR, EinsExtra
-                                            # CH36: Das Erste, arte, Phoenix, EinsPlus
-T 618000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH39: BR, BRalpha, SWR, EinsExtra
-T 626000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH40: BR, BRalpha, hr, MDR
+T 594000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH36: Das Erste, arte, Phoenix, EinsPlus
+T 618000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH39: Bayerisches Fernsehen, BR-alpha, SWR, EinsExtra
+T 626000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH40: Bayerisches Fernsehen, BR-alpha, MDR, hr
                                             # CH40: Das Erste, arte, Phoenix, EinsPlus
 T 642000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH42: ZDF, 3sat, KiKa / ZDFneo, ZDFinfokanal
 T 658000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH44: ZDF, 3sat, KiKa / ZDFneo, ZDFinfokanal
-T 666000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH45: BR, BRalpha, hr, MDR
+T 666000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH45: Bayerisches Fernsehen, BR-alpha, MDR, hr
                                             # CH45: Das Erste, arte, Phoenix, EinsPlus
-T 674000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH46: BR, BRalpha, SWR, EinsExtra
-                                            # CH46: BR, BRalpha, hr, MDR
-T 682000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH47: BR, BRalpha, hr, MDR
+T 674000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH46: Bayerisches Fernsehen, BR-alpha, MDR, hr
+                                            # CH46: Bayerisches Fernsehen, BR-alpha, SWR, EinsExtra
+T 682000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH47: Bayerisches Fernsehen, BR-alpha, MDR, hr
                                             # CH47: Das Erste, arte, Phoenix, EinsPlus
-T 690000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH48: Pro7, Sat.1, Kabel1, N24
+T 690000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH48: Sat.1, ProSieben, Kabel1, N24
 T 698000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH49: Das Erste, arte, Phoenix, EinsPlus
-T 722000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH52: Pro7, Sat.1, Kabel1, N24
-T 730000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH53: BR, BRalpha, SWR, EinsExtra
+T 722000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH52: ProSieben, Sat.1, Kabel1, N24
+T 730000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH53: Bayerisches Fernsehen, BR-alpha, SWR, EinsExtra
                                             # CH53: ZDF, 3sat, KiKa / ZDFneo, ZDFinfokanal
 T 738000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH54: Das Erste, arte, Phoenix, EinsPlus
 T 746000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH55: Das Erste, arte, Phoenix, EinsPlus
-T 754000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH56: BR, BRalpha, SWR, EinsExtra
-T 786000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH60: Tele 5, Eurosport(bis 5.2010), MonaTV, Franken TV
-T 834000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH66: RTL, RTL II, Super RTL, VOX
-                                            # CH66: Tele 5, Eurosport(bis 5.2010), HSE 24, München.TV
+T 754000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH56: Bayerisches Fernsehen, BR-alpha, SWR, EinsExtra
+T 786000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH60: Tele 5, Channel21/ Euronews, Bibel TV, HSE 24, Franken Fernsehen
+T 834000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH66: RTL, RTL 2, Super RTL, VOX
+                                            # CH66: Tele 5, Channel21/ Euronews, Bibel TV, HSE 24, münchen.tv
