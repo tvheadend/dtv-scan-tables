@@ -1,17 +1,17 @@
-# Hungary / Budapest
+# Hungary / Szentes-Szeged
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 #
-# A.multiplex UHF-55:
+# A.multiplex UHF-60:
 # FREE --------------------------------------------------------------------------------
 # m1 HD, m2 HD, RTL Klub, TV2, Euronews EN Teszt, Euronews FR Teszt, Euronews GER Teszt
 # Radio DVB-T Teszt 1, Radio DVB-T Teszt 2,Radio DVB-T Teszt 3
 # NON-FREE ----------------------------------------------------------------------------
 # ATV, HirTV
-T 746000000 8MHz 3/4 NONE QAM64 8k 1/8 NONE
+T 786000000 8MHz 3/4 NONE QAM64 8k 1/8 NONE
 #
-# C.multiplex UHF-62:
+# C.multiplex UHF-65:
 # FREE --------------------------------------------------------------------------------
 # DunaTV HD, Autonomia
 # NON-FREE ----------------------------------------------------------------------------
 # Cool, Film+, Sportklub, National Geographic, Disney, AXN, FEM3, Private spice
-T 802000000 8MHz 3/4 NONE QAM64 8k 1/8 NONE
+T 826000000 8MHz 3/4 NONE QAM64 8k 1/8 NONE

@@ -1,8 +1,0 @@
-# Hungary / Pecs
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-# A1.multiplex UHF-52:
-# MTV-1 HD Budapest, MTV-2 HD, ATV (Hungary), Hir TV, MR-1 Kossuth R, MR-2 Petofi R, MR-3 Bartok R, Katolikus R
-T 722000000 8MHz 3/4 NONE QAM64 8k 1/8 NONE
-# C.multiplex UHF-67:
-# Duna TV HD, Duna-II. Autonomia, RTL Klub, TV-2 (Hungary), Euronews
-T 842000000 8MHz 3/4 NONE QAM64 8k 1/8 NONE
