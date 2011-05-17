@@ -1,13 +1,10 @@
 # Waiatarua, Auckland NZ
 #
 # Channel allocation details for NZ can be found at
-# http://www.rsm.govt.nz/cms/policy-and-planning/current-projects/broadcasting/digital-television-2007-frequency-plan
+# http://en.wikipedia.org/wiki/Freeview_(New_Zealand)
 #
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 
-# Multiplex DA
 T 538000000 8MHz 3/4 NONE QAM64 8k 1/16 NONE
-# Multiplex DB
 T 570000000 8MHz 3/4 NONE QAM64 8k 1/16 NONE
-# Multiplex DC
 T 666000000 8MHz 3/4 NONE QAM64 8k 1/16 NONE
