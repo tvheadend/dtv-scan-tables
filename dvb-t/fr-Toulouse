@@ -1,8 +1,0 @@
-# Toulouse - France (DVB-T transmitter of Bohnoure)
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 754167000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
-T 698167000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
-T 722167000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
-T 714167000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
-T 746167000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
-T 730167000 8MHz 2/3 NONE QAM64 8k 1/32 NONE
