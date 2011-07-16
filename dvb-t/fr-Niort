@@ -1,7 +1,0 @@
-# Niort - France (DVB-T transmitter of Niort-Maisonnay)
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 498000000 8MHz 1/2 NONE QAM16 8k 1/32 NONE
-T 602000000 8MHz 1/2 NONE QAM16 8k 1/32 NONE
-T 738000000 8MHz 1/2 NONE QAM16 8k 1/32 NONE
-T 778000000 8MHz 1/2 NONE QAM16 8k 1/32 NONE
-T 802000000 8MHz 1/2 NONE QAM16 8k 1/32 NONE
