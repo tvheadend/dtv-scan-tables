@@ -1,11 +1,11 @@
 # DVB-T Baden-Württemberg
 # Created from http://www.ueberallfernsehen.de/data/senderliste.pdf
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 474000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH21: ZDF, 3sat, KiKa / ZDFneo, ZDFinfokanal
-T 482000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH22: ZDF, 3sat, KiKa / ZDFneo, ZDFinfokanal
-T 490000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH23: ZDF, 3sat, KiKa / ZDFneo, ZDFinfokanal
+T 474000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH21: ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 482000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH22: ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 490000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH23: ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
 T 514000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH26: Das Erste, arte, Phoenix, EinsPlus
-T 570000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH33: ZDF, 3sat, KiKa / ZDFneo, ZDFinfokanal
+T 570000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH33: ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
 T 618000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH39: SWR-BW, Bayerisches Fernsehen, hr, WDR
 T 626000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH40: SWR-BW, Bayerisches Fernsehen, hr, WDR
 T 634000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH41: SWR-BW, Bayerisches Fernsehen, hr, WDR
