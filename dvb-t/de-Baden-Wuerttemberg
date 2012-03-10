@@ -10,7 +10,7 @@ T 618000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH39: SWR-BW, Bayerisches Fernsehe
 T 626000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH40: SWR-BW, Bayerisches Fernsehen, hr, WDR
 T 634000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH41: SWR-BW, Bayerisches Fernsehen, hr, WDR
 T 650000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH43: Das Erste, arte, Phoenix, EinsPlus
-T 666000000 8MHz 3/4 NONE QAM16 8k 1/8 NONE # CH45: RTL, RTL 2, Super RTL, VOX, RTL Crime, Passion [Sendenorm: MPEG-4]
+T 666000000 8MHz 3/4 NONE QAM16 8k 1/8 NONE # CH45: RTL, RTL2, Super RTL, VOX, RTL Crime, Passion [Sendenorm: MPEG-4]
 T 698000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH49: SWR-BW, Bayerisches Fernsehen, hr, WDR
 T 706000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH50: SWR-BW, Bayerisches Fernsehen, hr, WDR
 T 722000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH52: Das Erste, arte, Phoenix, EinsPlus

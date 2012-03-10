@@ -1,7 +1,6 @@
 # DVB-T Bayern
 # Created from http://www.ueberallfernsehen.de/data/senderliste.pdf
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 191500000 7MHz 3/4 NONE QAM16 8k 1/4 NONE # CH07: Das Erste, arte, Phoenix, EinsPlus (bis zum 11.12.2011)
 T 490000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH23: ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
 T 506000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH25: Bayerisches Fernsehen, BR-alpha, SWR, EinsExtra
                                             # CH25: ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
@@ -17,7 +16,6 @@ T 618000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH39: Bayerisches Fernsehen, BR-al
 T 626000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH40: Bayerisches Fernsehen, BR-alpha, MDR, hr
                                             # CH40: Das Erste, arte, Phoenix, EinsPlus
 T 642000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH42: Das Erste, arte, Phoenix, EinsPlus
-                                            # CH42: Das Erste, arte, Phoenix, EinsPlus (Kanalwechsel am 12.12.2011)
                                             # CH42: ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
 T 658000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH44: ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
 T 666000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE # CH45: Das Erste, arte, Phoenix, EinsPlus
