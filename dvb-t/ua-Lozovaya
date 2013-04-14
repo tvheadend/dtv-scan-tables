@@ -1,0 +1,6 @@
+# Ukraine, Lozovaya
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T2 554000000 8MHz 3/5 NONE QAM256 32k 1/16 NONE
+T2 746000000 8MHz 3/5 NONE QAM256 32k 1/16 NONE
+T2 754000000 8MHz 3/5 NONE QAM256 32k 1/16 NONE
+T2 778000000 8MHz 3/5 NONE QAM256 32k 1/16 NONE

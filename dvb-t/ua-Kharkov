@@ -1,0 +1,6 @@
+# Ukraine, Kharkov
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T2 554000000 8MHz 3/5 NONE QAM256 32k 1/16 NONE
+T2 586000000 8MHz 3/5 NONE QAM256 32k 1/16 NONE
+T2 690000000 8MHz 3/5 NONE QAM256 32k 1/16 NONE
+T2 770000000 8MHz 3/5 NONE QAM256 32k 1/16 NONE
