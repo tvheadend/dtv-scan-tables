@@ -1,5 +1,6 @@
 # EUTELSAT SkyPlex, Hotbird 13E
-# freq pol sr fec
+# std freq pol sr fec rolloff mod is_id pls_code pls_mode
+
 S 10719000 V 27500000 3/4
 S 10723000 H 29900000 3/4
 S 10757000 V 27500000 3/4
