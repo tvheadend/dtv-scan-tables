@@ -1,0 +1,6 @@
+# Ukraine, Odessa
+# std freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy plp_id
+T2 490000000 8MHz 3/5 NONE QAM256 32k 1/16 NONE
+T2 562000000 8MHz 3/5 NONE QAM256 32k 1/16 NONE
+T2 618000000 8MHz 3/5 NONE QAM256 32k 1/16 NONE
+T2 650000000 8MHz 3/5 NONE QAM256 32k 1/16 NONE

@@ -1,5 +1,5 @@
 # Russia, Novosibirsk
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+# std freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy plp_id
 T2 530000000 8MHz 4/5 NONE QAM64 32k AUTO NONE 0
 T2 530000000 8MHz 4/5 NONE QAM64 32k AUTO NONE 1
 T2 530000000 8MHz 4/5 NONE QAM64 32k AUTO NONE 2
