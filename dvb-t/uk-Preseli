@@ -2,14 +2,14 @@
 # Auto-generated from:
 # <http://stakeholders.ofcom.org.uk/broadcasting/guidance/tech-guidance/transmitter-frequency/>
 #----------------------------------------------------------------------------------------------
-# location and provider: UK, Tacolneston
+# location and provider: UK, Preseli
 # date (yyyy-mm-dd)    : 2013-09-18
 #
 # T[2] <freq>     <bw>  <fec_hi> <fec_lo> <mod>   <tm> <guard> <hi> [<plp_id>] [# comment]
 #----------------------------------------------------------------------------------------------
-T       745833000  8MHz  2/3      NONE     QAM64   8k   1/32    NONE            # PSB1
-T       777833000  8MHz  2/3      NONE     QAM64   8k   1/32    NONE            # PSB2
-T2      706000000  8MHz  2/3      NONE     QAM256  32k  1/128   NONE  0         # PSB3
-T       642000000  8MHz  3/4      NONE     QAM64   8k   1/32    NONE            # COM4
-T       666000000  8MHz  3/4      NONE     QAM64   8k   1/32    NONE            # COM5
+T       650167000  8MHz  2/3      NONE     QAM64   8k   1/32    NONE            # PSB1
+T       674167000  8MHz  2/3      NONE     QAM64   8k   1/32    NONE            # PSB2
+T2      626167000  8MHz  2/3      NONE     QAM256  32k  1/128   NONE  0         # PSB3
+T       641833000  8MHz  3/4      NONE     QAM64   8k   1/32    NONE            # COM4
+T       665833000  8MHz  3/4      NONE     QAM64   8k   1/32    NONE            # COM5
 T       618167000  8MHz  3/4      NONE     QAM64   8k   1/32    NONE            # COM6

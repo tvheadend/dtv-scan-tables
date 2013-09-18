@@ -1,10 +1,15 @@
-# UK, Wenvoe
-# Auto-generated from http://www.dtg.org.uk/retailer/dtt_channels.html
-# and http://www.ofcom.org.uk/static/reception_advice/index.asp.html
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 546000000 8MHz 3/4 NONE QAM16 2k 1/32 NONE
-T 578000000 8MHz 2/3 NONE QAM64 2k 1/32 NONE
-T 625833000 8MHz 2/3 NONE QAM64 2k 1/32 NONE
-T 705833000 8MHz 3/4 NONE QAM16 2k 1/32 NONE
-T 649833000 8MHz 3/4 NONE QAM16 2k 1/32 NONE
-T 673833000 8MHz 3/4 NONE QAM16 2k 1/32 NONE
+#----------------------------------------------------------------------------------------------
+# Auto-generated from:
+# <http://stakeholders.ofcom.org.uk/broadcasting/guidance/tech-guidance/transmitter-frequency/>
+#----------------------------------------------------------------------------------------------
+# location and provider: UK, Wenvoe
+# date (yyyy-mm-dd)    : 2013-09-18
+#
+# T[2] <freq>     <bw>  <fec_hi> <fec_lo> <mod>   <tm> <guard> <hi> [<plp_id>] [# comment]
+#----------------------------------------------------------------------------------------------
+T       634167000  8MHz  2/3      NONE     QAM64   8k   1/32    NONE            # PSB1
+T       658000000  8MHz  2/3      NONE     QAM64   8k   1/32    NONE            # PSB2
+T2      682000000  8MHz  2/3      NONE     QAM256  32k  1/128   NONE  0         # PSB3
+T       642167000  8MHz  3/4      NONE     QAM64   8k   1/32    NONE            # COM4
+T       666167000  8MHz  3/4      NONE     QAM64   8k   1/32    NONE            # COM5
+T       618167000  8MHz  3/4      NONE     QAM64   8k   1/32    NONE            # COM6
