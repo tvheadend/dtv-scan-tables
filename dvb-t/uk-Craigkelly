@@ -5,11 +5,11 @@
 # location and provider: UK, Craigkelly
 # date (yyyy-mm-dd)    : 2013-09-18
 #
-# T[2] <freq>     <bw>  <fec_hi> <fec_lo> <mod>   <tm> <guard> <hi> [<plp_id>] [# comment]
+# T[2] <freq> <bw> <fec_hi> <fec_lo> <mod> <tm> <guard> <hi> [<plp_id>] [# comment]
 #----------------------------------------------------------------------------------------------
-T       522000000  8MHz  2/3      NONE     QAM64   8k   1/32    NONE            # PSB1
-T       498000000  8MHz  2/3      NONE     QAM64   8k   1/32    NONE            # PSB2
-T2      474167000  8MHz  2/3      NONE     QAM256  32k  1/128   NONE  0         # PSB3
-T       642000000  8MHz  3/4      NONE     QAM64   8k   1/32    NONE            # COM4
-T       666000000  8MHz  3/4      NONE     QAM64   8k   1/32    NONE            # COM5
-T       618167000  8MHz  3/4      NONE     QAM64   8k   1/32    NONE            # COM6
+T  522000000 8MHz 2/3 NONE QAM64  8k  1/32  NONE   # PSB1
+T  498000000 8MHz 2/3 NONE QAM64  8k  1/32  NONE   # PSB2
+T2 474167000 8MHz 2/3 NONE QAM256 32k 1/128 NONE 0 # PSB3
+T  642000000 8MHz 3/4 NONE QAM64  8k  1/32  NONE   # COM4
+T  666000000 8MHz 3/4 NONE QAM64  8k  1/32  NONE   # COM5
+T  618167000 8MHz 3/4 NONE QAM64  8k  1/32  NONE   # COM6
