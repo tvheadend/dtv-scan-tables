@@ -1,0 +1,9 @@
+# Generated from http://tdt-portugal.blogspot.pt/
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 642000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # Monte da Virgem
+T 674000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # Lousa (Trevim)
+T 682000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+T 690000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+T 698000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # Montejunto
+T 738000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
+T 754000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE # Mainland SFN

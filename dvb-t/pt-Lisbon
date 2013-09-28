@@ -1,3 +1,0 @@
-# DVB-T Lisbon, Portugal - TDT Continente
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
-T 754000000 8MHz 2/3 NONE QAM_64 8k 1/4 NONE # MPEG-4/H.264
