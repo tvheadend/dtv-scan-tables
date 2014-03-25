@@ -1,15 +1,16 @@
 #----------------------------------------------------------------------------------------------
 # Auto-generated from:
-# <http://stakeholders.ofcom.org.uk/broadcasting/guidance/tech-guidance/transmitter-frequency/>
+# <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/BT17 0NG/NA/0/>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Divis
-# date (yyyy-mm-dd)    : 2013-09-18
+# date (yyyy-mm-dd)    : 2014-03-25
 #
 # T[2] <freq> <bw> <fec_hi> <fec_lo> <mod> <tm> <guard> <hi> [<plp_id>] [# comment]
 #----------------------------------------------------------------------------------------------
-T  522000000 8MHz 2/3 NONE QAM64  8k  1/32  NONE   # PSB1
-T  474167000 8MHz 2/3 NONE QAM64  8k  1/32  NONE   # PSB2
-T2 498000000 8MHz 2/3 NONE QAM256 32k 1/128 NONE 0 # PSB3
-T  490000000 8MHz 3/4 NONE QAM64  8k  1/32  NONE   # COM4
-T  514000000 8MHz 3/4 NONE QAM64  8k  1/32  NONE   # COM5
-T  538000000 8MHz 3/4 NONE QAM64  8k  1/32  NONE   # COM6
+T 522000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE         # C27 BBC A
+T 474167000 8MHz 2/3 NONE QAM64 8k 1/32 NONE         # C21+ D3&4
+T2 570000000 8MHz 2/3 NONE QAM256 32k 1/128 NONE 0   # C33 COM7 HD
+T 490000000 8MHz 3/4 NONE QAM64 8k 1/32 NONE         # C23 SDN
+T 514000000 8MHz 3/4 NONE QAM64 8k 1/32 NONE         # C26 ARQ A
+T 538000000 8MHz 3/4 NONE QAM64 8k 1/32 NONE         # C29 ARQ B
+T2 498000000 8MHz 2/3 NONE QAM256 32k 1/128 NONE 0   # C24 BBC B HD

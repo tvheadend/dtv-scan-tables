@@ -1,15 +1,15 @@
 #----------------------------------------------------------------------------------------------
 # Auto-generated from:
-# <http://stakeholders.ofcom.org.uk/broadcasting/guidance/tech-guidance/transmitter-frequency/>
+# <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/B61 9JD/NA/0/>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Bromsgrove
-# date (yyyy-mm-dd)    : 2013-09-18
+# date (yyyy-mm-dd)    : 2014-03-25
 #
 # T[2] <freq> <bw> <fec_hi> <fec_lo> <mod> <tm> <guard> <hi> [<plp_id>] [# comment]
 #----------------------------------------------------------------------------------------------
-T  514000000 8MHz 2/3 NONE QAM64  8k  1/32  NONE   # PSB1
-T  490000000 8MHz 2/3 NONE QAM64  8k  1/32  NONE   # PSB2
-T2 545833000 8MHz 2/3 NONE QAM256 32k 1/128 NONE 0 # PSB3
-T  634167000 8MHz 3/4 NONE QAM64  8k  1/32  NONE   # COM4
-T  658000000 8MHz 3/4 NONE QAM64  8k  1/32  NONE   # COM5
-T  682000000 8MHz 3/4 NONE QAM64  8k  1/32  NONE   # COM6
+T 514000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE         # C26 BBC A
+T 490000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE         # C23 D3&4
+T 634167000 8MHz 3/4 NONE QAM64 8k 1/32 NONE         # C41+ SDN
+T 658000000 8MHz 3/4 NONE QAM64 8k 1/32 NONE         # C44 ARQ A
+T 682000000 8MHz 3/4 NONE QAM64 8k 1/32 NONE         # C47 ARQ B
+T2 545833000 8MHz 2/3 NONE QAM256 32k 1/128 NONE 0   # C30- BBC B HD
