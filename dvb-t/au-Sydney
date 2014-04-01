@@ -1,16 +1,17 @@
-# Australia / Sydney / North Shore (aka Artarmon/Gore Hill/Willoughby)
+# Australia / Sydney (transmitters at Artarmon/Gore Hill/Willoughby)
 #
+# ## Service - Channel - Network owner
 # T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 #
-# ABC VHF12
+## ABC - CH12 - ABC
 T 226500000 7MHz 3/4 NONE QAM64 8k 1/16 NONE
-# Seven VHF6
+## ATN - CH6 - Seven Network
 T 177500000 7MHz 3/4 NONE QAM64 8k 1/16 NONE
-# Nine VHF8
+## TCN - CH8 - Nine Network
 T 191625000 7MHz 3/4 NONE QAM64 8k 1/16 NONE
-# Ten VHF11
+## TEN - CH11 - Network Ten
 T 219500000 7MHz 3/4 NONE QAM64 8k 1/16 NONE
-# SBS VHF7
+## SBS - CH7 - SBS
 T 184500000 7MHz 2/3 NONE QAM64 8k 1/8 NONE
-# TVS UHF29
+## TSN - CH29 - Community Television
 T 536625000 7MHz 2/3 NONE QPSK 8k 1/8 NONE
