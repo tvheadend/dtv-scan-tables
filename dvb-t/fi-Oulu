@@ -1,7 +1,9 @@
-# 2014-04-18 Antti Palosaari <crope@iki.fi>
-# generated from http://www.digita.fi/kuluttajat/tv/nakyvyysalueet/kanavanumerot_ja_taajuudet
+# 2014-05-31 Olli Salonen <olli.salonen@iki.fi>
+# generated from http://www.digita.fi/kuluttajat/tv/nakyvyysalueet/kanavanumero$
+# and addded new mux H
 T 634000000 8MHz 2/3 NONE QAM64 8k 1/8 NONE
 T 714000000 8MHz 2/3 NONE QAM64 8k 1/8 NONE
 T 738000000 8MHz 2/3 NONE QAM64 8k 1/8 NONE
 T 602000000 8MHz 2/3 NONE QAM64 8k 1/8 NONE
 T 498000000 8MHz 2/3 NONE QAM64 8k 1/8 NONE
+T 570000000 8MHz 2/3 NONE QAM64 8k 1/8 NONE
