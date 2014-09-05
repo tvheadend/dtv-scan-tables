@@ -13,4 +13,4 @@ T 522000000 8MHz 2/3 NONE QAM64 8k 1/4 NONE
 # (TODO: http://www.zive.sk/bratislava-sa-dockala-novych-programov-v-dvb-t-divaci-si-naladia-uz-aj-ta3/sc-4-a-298830/default.aspx)
 #
 # regional multiplex - on channel 55
-T 746000000 8MHz 2/1 NONE QAM64 8k 1/4 NONE
+T 746000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE
