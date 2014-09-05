@@ -1,0 +1,38 @@
+All tables are now using DVBv5 format. That allows suporting all standards
+available on a standard way.
+
+A Makefile target is provided to convert to the legacy channel format.
+For it to work, you need to have v4l-utils installed (specifically,
+the v4l-utils package that contains the dvbv5 utils).
+
+Be sure that you have at least version 1.4.0 installed, or, if you're
+compiling v4l-utils from its source. Versions below may work too, but
+some DVB files won't be properly parsed with earlier versions.
+
+This is the minimal changeset of v4l-utils required for it to work:
+	commit 64751eb98a15b9c0077d8c2e4409b9b69ac80448
+	Date:   Fri Sep 5 15:50:43 2014 -0300
+	Subject: libdvbv5: make sure that all needed properties are filled
+
+You can download and install v4l-utils from:
+	http://git.linuxtv.org/cgit.cgi/v4l-utils.git/
+
+Once having it installed, generating all the tables usind DVBv3 channel
+format is as easy as running:
+
+	$ make clean
+	$ make dvbv3
+
+The files can also be individually converted from DVBv5 to DVBv3 with:
+
+	$ dvb-format-convert -I dvbv5 -O channel dvb-c/ch-Rega-Sense legacy-format-ch-Rega-Sense
+
+And converting back into DVBv5 format with:
+
+	$ dvb-format-convert -I channel -O dvbv5 legacy-format-ch-Rega-Sense dvb-c/ch-Rega-Sense
+
+Plese notice that comments are not preserved when doing the conversions.
+
+PS.: If you're willing to submit new entries and/or corrections, please
+be sure to send them at the DVBv5 format and sending them via e-mail
+to linux-media@vger.kernel.org.
