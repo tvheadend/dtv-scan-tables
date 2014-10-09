@@ -147,7 +147,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 61
-[TV Câmara, TV ALESP, TV Câmara Municipal SJC, TV Câmara Municipal Jacareí]
+[TV Câmara, TV ALESP, TV Câmara S. José dos Campos, TV Câmara Jacareí]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 755142857
