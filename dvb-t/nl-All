@@ -1,7 +1,6 @@
 # The Netherlands, whole country
 # Created from http://radio-tv-nederland.nl/TV       1.251978e-312nderlijst%20Nederland.xls
 # and http://radio-tv-nederland.nl/dvbt/dvbt-lokaal.html
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 474000000

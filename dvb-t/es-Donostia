@@ -1,6 +1,5 @@
 # The channels with 1/32 guard-interval are French and should be perfectly visible
 # here. However I have only managed to get a lock for the channel 57 of the French ones.
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 490000000

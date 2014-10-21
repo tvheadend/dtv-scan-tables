@@ -1,5 +1,4 @@
 # Australia / NSW / New England / Tamworth / Mt.Soma
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 # SBS
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT
@@ -67,7 +66,6 @@
 
 
 # Australia / NSW / New England / Upper Namoi / Mt.Dowe
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 # SBS
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT
@@ -135,7 +133,6 @@
 
 
 # Australia / NSW / Western Districts / Central Western Slopes / Mt. Cenn Cruaich
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 # SBS
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT

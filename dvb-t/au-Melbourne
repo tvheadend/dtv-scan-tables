@@ -7,7 +7,6 @@
 # date (yyyy-mm-dd)    : 2014-08-17
 # provided by (opt)    : <your name or email here>
 #
-# T[2] [plp_id] [system_id] <freq> <bw> <fec_hi> <fec_lo> <mod> <tm> <guard> <hi> [# comment]
 #------------------------------------------------------------------------------
 # Seven Network
 [CHANNEL]

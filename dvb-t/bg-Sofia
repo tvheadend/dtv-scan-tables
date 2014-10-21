@@ -7,7 +7,6 @@
 # date (yyyy-mm-dd)    : 2013-05-13
 # provided by (opt)    : v.lalov@gmail.com
 #
-# T[2] [plp_id] [system_id] <freq> <bw> <fec_hi> <fec_lo> <mod> <tm> <guard> <hi> [# comment]
 #------------------------------------------------------------------------------
 [NURTS Digital]
 	DELIVERY_SYSTEM = DVBT

@@ -1,5 +1,4 @@
 # Hong Kong (DMB-TH)
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 
 # TVB (band 35)
 [CHANNEL]

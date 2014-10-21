@@ -1,7 +1,6 @@
 # Australia / Mackay (Mt Blackwood transmitters)
 # aufreq=((UHF channel number)*8+306)
 
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 # ABC
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT

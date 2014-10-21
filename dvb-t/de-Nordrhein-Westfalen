@@ -1,6 +1,5 @@
 # DVB-T Nordrhein-Westfalen
 # Created from http://www.ueberallfernsehen.de/data/senderliste.pdf
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [CH25: WDR-Dortmund, NDR/WDR-Ruhr, MDR, SWR]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 506000000

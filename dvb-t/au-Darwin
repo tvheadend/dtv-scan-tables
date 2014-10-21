@@ -1,4 +1,3 @@
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 # ABC (UHF 30)
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT

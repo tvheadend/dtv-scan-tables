@@ -4,7 +4,6 @@
 # 	               	: http://joseph.zikusooka.com
 # 	               	: joseph@zikusooka.com
 #
-# T[2] <freq> <bw> <fec_hi> <fec_lo> <mod> <tm> <guard> <hi> [plp_id] [system_id] [# comment]
 #------------------------------------------------------------------------------
 [UCC Primary]
 	DELIVERY_SYSTEM = DVBT

@@ -5,7 +5,6 @@
 # 	print "T $freq 8MHz AUTO NONE AUTO AUTO AUTO NONE\n";
 # }
 #
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 177500000

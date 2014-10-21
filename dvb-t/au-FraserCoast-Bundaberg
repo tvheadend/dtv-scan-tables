@@ -1,5 +1,4 @@
 # Australia / QLD / Fraser Coast - Bundaberg / Mt Goonaneman
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 # ABC VHF9A
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT

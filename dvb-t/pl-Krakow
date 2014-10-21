@@ -7,7 +7,6 @@
 # date (yyyy-mm-dd)    : 2011-10-29
 # provided by (opt)    : Damian Golda
 #
-# T[2] <freq> <bw> <fec_hi> <fec_lo> <mod> <tm> <guard> <hi> [# comment]
 #------------------------------------------------------------------------------
 [Ch.23, Mux2 Tarnow/g.Sw.Marcina]
 	DELIVERY_SYSTEM = DVBT

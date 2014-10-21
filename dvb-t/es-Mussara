@@ -1,5 +1,4 @@
 # DVB-T La Mussara (Reus-Tarragona)
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [c59: TV3, K3/33, 3/24, 300, 3i]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 778000000

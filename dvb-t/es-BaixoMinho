@@ -6,7 +6,6 @@
 # date (yyyy-mm-dd)    : 2009-07-11
 # provided by (opt)    : neonmann@gmail.com
 #
-# T[2] <freq> <bw> <fec_hi> <fec_lo> <mod> <tm> <guard> <hi> [# comment]
 #------------------------------------------------------------------------------
 [SFN]
 	DELIVERY_SYSTEM = DVBT

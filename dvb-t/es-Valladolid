@@ -1,5 +1,4 @@
 # DVB-T Valladolid
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [Canal 57: Clan TVE, 24H TVE, La 2, TVE 1, RNE1, RNE3, RNC]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 762000000

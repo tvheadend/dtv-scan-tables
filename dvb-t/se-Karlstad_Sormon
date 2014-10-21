@@ -1,5 +1,4 @@
 # Sweden - Karlstad Sörmon Valid from 2007 09 26. Ver. 2 Correct FEC
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 # Channels
 # Mux3=30
 [CHANNEL]

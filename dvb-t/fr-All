@@ -1,5 +1,4 @@
 # France ALL (All channel 21 to 60)
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [UHF 21]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 474000000

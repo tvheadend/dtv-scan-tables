@@ -1,5 +1,4 @@
 # DVB-T Asturias
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [TPA TPA2]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 786000000

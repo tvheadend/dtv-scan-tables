@@ -2,7 +2,6 @@
 # Created from http://www.levira.ee/transmitter.pdf
 # and http://wiki.wifi.ee/index.php/DVB-T#Tehniline_teave
 # Additional MUX info http://www.levira.ee/program.pdf
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 482000000

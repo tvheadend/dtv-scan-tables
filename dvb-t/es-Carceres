@@ -1,4 +1,3 @@
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [Canal 39: 8Madrid, TMT-Popular TV, Kiss TV, Intereconomía TV]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 618000000

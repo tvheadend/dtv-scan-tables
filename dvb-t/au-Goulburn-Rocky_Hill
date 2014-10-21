@@ -2,7 +2,6 @@
 #
 # Scanned 17/10/2009 - Alex Ferrara (alex@receptiveit.com.au)
 
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 # ABC - netid (4112) tid (547) offset (+125Khz)
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT

@@ -12,7 +12,6 @@
 # http://en.wikipedia.org/wiki/File:VHF_Usage.svg
 # http://en.wikipedia.org/wiki/Television_channel_frequencies
 
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 
 ### VHF - Band III ###
 # 5

@@ -1,5 +1,4 @@
 # DVB-T Alicante, Spain
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [Canal 55: TV3, K33/33, 3/24, Canal 300]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 746000000

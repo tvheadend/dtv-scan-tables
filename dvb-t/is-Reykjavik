@@ -7,7 +7,6 @@
 # date (yyyy-mm-dd)    : 2010-10-22
 # provided by (opt)    : <your name or email here>
 #
-# T[2] <freq> <bw> <fec_hi> <fec_lo> <mod> <tm> <guard> <hi> [# comment]
 #------------------------------------------------------------------------------
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT

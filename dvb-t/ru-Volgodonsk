@@ -1,5 +1,4 @@
 # Russia, Volgodonsk
-# std freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy plp_id
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT2
 	FREQUENCY = 650000000

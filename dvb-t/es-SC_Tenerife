@@ -3,7 +3,6 @@
 # Revisada y corregida por el Grupo de Usuarios de Linux de Canarias
 # http://www.gulic.org
 #
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [C23]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 490000000

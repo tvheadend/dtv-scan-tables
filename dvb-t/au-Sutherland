@@ -3,7 +3,6 @@
 # Australia modulation params:
 # - http://www.dba.org.au/index.asp?sectionID=120
 #
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 #
 # North (Broadcast Site Escarpment Road BROKERS NOSE)
 # - http://www.dba.org.au/index.asp?query=true&sectionID=22&recLocation=Wollongong+%2D+North

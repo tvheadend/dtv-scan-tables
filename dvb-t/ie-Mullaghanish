@@ -1,6 +1,5 @@
 # Ireland, Mullaghanish
 # Generated from http://www.comreg.ie/_fileupload/Broadcast_Technical_Parameters.xlsx
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [CH21: Saorview MUX1]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 474000000

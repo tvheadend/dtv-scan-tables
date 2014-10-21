@@ -1,5 +1,4 @@
 # DVB-T Alfabia, Mallorca, Balearic Islands, Spain.
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [TV3 Cat, 3/24, 33, Super3/300]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 514000000

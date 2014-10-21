@@ -1,5 +1,4 @@
 # DVB-T Tenerife, Spain (03/04/2011)
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [Canal 23: laSexta 2, laSexta 3, laSexta HD, C+ 2, Cuatro]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 490000000

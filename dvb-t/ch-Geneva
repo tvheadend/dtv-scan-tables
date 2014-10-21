@@ -1,6 +1,5 @@
 # Switzerland, Geneva region
 # Updated by tkernen@deckpoint.ch on 2010/12/03
-# T[2] <freq> <bw> <fec_hi> <fec_lo> <mod> <tm> <guard> <hi> [# comment]
 #------------------------------------------------------------------------------
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT

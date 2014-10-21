@@ -1,6 +1,5 @@
 # DVB-T Thüringen
 # Created from http://www.ueberallfernsehen.de/data/senderliste.pdf
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [CH21: Das Erste, arte, Phoenix, EinsFestival]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 474000000

@@ -1,7 +1,6 @@
 # DVB-T Cadiz (Andalusia)                      by xiterrex  Aug 2014
 # Info obtained from Spanish Government (Ministerio de Industria) at URL:
 # <http://www.minetur.gob.es/telecomunicaciones/infraestructuras/paginas/tdt_ict.aspx>
-# T freq bw fec_hi fec_lo mod transm-mode guard-interval hierarchy
 [C21 # MPE2]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 474000000

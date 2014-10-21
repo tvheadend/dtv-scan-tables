@@ -1,5 +1,4 @@
 # Generated from http://tdt-portugal.blogspot.pt/
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [Monte da Virgem]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 642000000

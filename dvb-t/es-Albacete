@@ -1,5 +1,4 @@
 # Spain, Albacete - Update 2010/08/12 (Freud)
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [Canal 37: La Regional, TCM, CRN]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 602000000

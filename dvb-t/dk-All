@@ -1,7 +1,6 @@
 # Denmark, whole country
 # Created from http://www.digi-tv.dk/Indhold_og_tilbud/frekvenser.asp
 # and http://www.digi-tv.dk/Sendenettets_opbygning/
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 506000000

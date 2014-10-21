@@ -5,7 +5,6 @@
 # location and provider: UK, Crystal Palace
 # date (yyyy-mm-dd)    : 2014-03-25
 #
-# T[2] <freq> <bw> <fec_hi> <fec_lo> <mod> <tm> <guard> <hi> [<plp_id>] [# comment]
 #----------------------------------------------------------------------------------------------
 [C23 BBC A]
 	DELIVERY_SYSTEM = DVBT

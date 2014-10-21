@@ -1,5 +1,4 @@
 # DVB-T Tehran
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [IRIB-TV1/2/3/4/5, IRINN, AMOUZESH, QURAN-TV]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 602000000

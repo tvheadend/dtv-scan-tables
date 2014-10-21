@@ -1,6 +1,5 @@
 # Australia / Hervey Bay / Ghost Hill
 #
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 #
 # ABC UHF56
 [CHANNEL]

@@ -1,5 +1,4 @@
 # DVB-T Luxembourg [2007-11-18]
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [Kanal 7   M6, RTL 8, LUXE.TV]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 191500000

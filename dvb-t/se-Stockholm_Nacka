@@ -1,5 +1,4 @@
 # Sweden - Stockholm/Nacka
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [Teracom_Mux_1]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 490000000

@@ -1,7 +1,6 @@
 # Austria, all DVB-T transmitters run by ORS
 # Created from
 # http://www.ors.at/fileadmin/user_upload/downloads/DVB-T_Kanalbezeichnungen_und_Mittenfrequenzen.pdf
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 474000000

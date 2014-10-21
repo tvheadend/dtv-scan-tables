@@ -1,5 +1,4 @@
 # DVB-T Lugo (Centro emisor Paramo) - Rev. 1.2 - 11.12.05
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 
 [TVE 1, TVE 2, 24H TVE, CLAN/50 TVE, RNE1, RNE CLASICA, RNE3]
 	DELIVERY_SYSTEM = DVBT

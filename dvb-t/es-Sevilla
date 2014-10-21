@@ -1,7 +1,6 @@
 # DVB-T Sevilla (Spain) by x2 15-agos-2010, modificado 15-ago-2010
 #                                    thanks to http://www.tdt1.com
 #         thanks to http://wirbel.htpc-forum.de/w_scan/index2.html
-# T freq bw fec_hi fec_lo mod transm-mode guard-interval hierarchy
 [C33]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 570000000

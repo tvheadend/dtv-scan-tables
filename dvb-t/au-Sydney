@@ -1,7 +1,6 @@
 # Australia / Sydney (transmitters at Artarmon/Gore Hill/Willoughby)
 #
 # ## Service - Channel - Network owner
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 #
 ## ABC - CH12 - ABC
 [CHANNEL]

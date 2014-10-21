@@ -1,5 +1,4 @@
 # DVB-T Muros and Noia
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [Canal 27: Local Ribeira]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 522000000

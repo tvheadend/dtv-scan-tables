@@ -1,5 +1,4 @@
 # DVB-T Malaga (Andalucia)                   by Pedro Leon 4 Mayo 2007
-# T freq bw fec_hi fec_lo mod transm-mode guard-interval hierarchy
 [C57 La Primera, La 2, Canal 24H, Clan/TVE 50, RNE1, RNE Clásica, RNE 3]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 762000000

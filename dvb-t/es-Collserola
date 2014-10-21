@@ -1,5 +1,4 @@
 # DVB-T Collserola (Barcelona)
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [BTV, TV Badalona, TV L'Hospitalet, TV del Besòs, COM Ràdio, Ràdio Ciutat Badalona, Ràdio L'Hospitalet]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 514000000

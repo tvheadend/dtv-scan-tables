@@ -1,7 +1,6 @@
 # Croatia, whole country
 # Created from http://www.oiv.hr/broadcasting/tables/dtv_hr.aspx
 # and from http://www.oiv.hr/broadcasting/tables/dtv_channel_hr.aspx
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [D1 MUXD]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 474000000

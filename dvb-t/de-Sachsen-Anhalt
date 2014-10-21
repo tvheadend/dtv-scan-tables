@@ -1,6 +1,5 @@
 # DVB-T Sachsen-Anhalt
 # Created from http://www.ueberallfernsehen.de/data/senderliste.pdf
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [CH22: ZDF, 3sat, KiKa / ZDFneo, ZDFinfo]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 482000000

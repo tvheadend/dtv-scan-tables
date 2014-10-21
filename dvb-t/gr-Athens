@@ -1,5 +1,4 @@
 # Initial scan config for Digital DVB-T (Ert) in Athens Greece
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [Digea DVB-T]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 674000000

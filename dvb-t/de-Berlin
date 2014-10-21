@@ -1,6 +1,5 @@
 # DVB-T Berlin
 # Created from http://www.ueberallfernsehen.de/data/senderliste.pdf
-# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
 [CH25: RTL, RTL2, Super RTL, VOX]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 506000000
