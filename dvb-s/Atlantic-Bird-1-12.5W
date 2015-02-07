@@ -1,5 +1,4 @@
 # Atlantic Bird 1 @ 12.5W
-# std freq pol sr fec rolloff mod is_id pls_code pls_mode
 
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBS
