@@ -1,11 +1,11 @@
 # Channel table for Limoeiro - PE - Brazil
 # Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=708
 
-# Physical channel 34
+# Physical channel 36
 [Globo Nordeste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
-	FREQUENCY = 593142857
+	FREQUENCY = 605142857
 	INVERSION = AUTO
 	GUARD_INTERVAL = AUTO
 	TRANSMISSION_MODE = AUTO

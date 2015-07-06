@@ -2,7 +2,7 @@
 # Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=852
 
 # Physical channel 18
-[TV Vanguarda]
+[TV Vanguarda São José]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 497142857
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 42
-[TV Vanguarda]
+[TV Vanguarda São José]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 641142857

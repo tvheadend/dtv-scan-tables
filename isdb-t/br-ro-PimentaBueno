@@ -2,7 +2,7 @@
 # Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=498
 
 # Physical channel 40
-[TV Candelária]
+[SIC TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 629142857
