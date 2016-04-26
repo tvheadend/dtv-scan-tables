@@ -11,7 +11,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-# START CANGAS DE NARCEA Y LLANES	
+# START CANGAS DE NARCEA Y LLANES
 [Canal 25: Ed. Prensa Asturiana, TeleNarcea, TeleAvilés, UTE Opalo]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 506000000
@@ -36,7 +36,7 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-	
+
 [Canal 28: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 530000000
@@ -60,7 +60,7 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-	
+
 [Canal 35: Proximamente, Discovery Max, Disney Channel, Paramount Channel, Cope, Radio María, Radio Marca, Vaughan Radio, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 586000000
@@ -73,7 +73,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-# START GIJÓN	
+# START GIJÓN
 [Canal 38: Muy Muy TV, Canal 10, Astrocanal]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 610000000
@@ -98,7 +98,7 @@
 	GUARD_INTERVAL = 1/4
 	HIERARCHY = NONE
 	INVERSION = AUTO
-	
+
 [Canal 42: TDP, TDP HD, KISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, Kiss FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 642000000
@@ -151,7 +151,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-# START MIERES	
+# START MIERES
 [Canal 46: Cuencas Mineras TV, Producciones Grela]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 674000000
@@ -165,7 +165,7 @@
 	INVERSION = AUTO
 # END MIERES
 
-# START AVILÉS	
+# START AVILÉS
 [Canal 47: Ed. Prensa Asturiana, Canal 10, TeleAvilés]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 682000000
@@ -179,7 +179,7 @@
 	INVERSION = AUTO
 # END AVILÉS
 
-# START LUARCA-VALDÉS	
+# START LUARCA-VALDÉS
 [Canal 56: Ed. Prensa Asturiana, TeleAvilés, ORT]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 754000000
