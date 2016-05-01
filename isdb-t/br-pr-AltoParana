@@ -1,8 +1,8 @@
 # Channel table for Alto Paraná - PR - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=1678
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1678
 
 # Physical channel 42
-[RPC]
+[RPC Paranavaí]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 641142857

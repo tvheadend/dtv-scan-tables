@@ -1,8 +1,8 @@
 # Channel table for Santo Antonio do Descoberto - GO - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=415
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=415
 
 # Physical channel 15
-[TV Brasil, NBR]
+[TV Brasil, NBR, TV Escola, Canal Saúde]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 479142857

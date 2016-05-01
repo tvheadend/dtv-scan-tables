@@ -1,8 +1,8 @@
 # Channel table for Itabuna - BA - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=144
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=144
 
 # Physical channel 17
-[Record Bahia Interior]
+[Record Cabrália]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 491142857

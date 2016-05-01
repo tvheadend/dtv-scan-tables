@@ -1,8 +1,8 @@
 # Channel table for Palmeira - PR - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=1709
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1709
 
 # Physical channel 29
-[RPC]
+[RPC Ponta Grossa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 563142857

@@ -1,5 +1,5 @@
 # Channel table for Cambé - PR - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=292
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=292
 
 # Physical channel 19
 [Rede Vida]
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 23
-[TV Cidade/PR]
+[Rede Massa Cidade]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 527142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 42
-[RPC]
+[RPC Londrina]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 641142857
@@ -176,7 +176,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 49
-[RIC]
+[RIC TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 683142857

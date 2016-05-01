@@ -1,5 +1,5 @@
 # Channel table for Guarujá - SP - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=52
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=52
 
 # Physical channel 15
 [Rede Vida]
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 29
-[VTV]
+[VTV, Saudade FM]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 563142857

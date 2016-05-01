@@ -1,5 +1,5 @@
 # Channel table for Vitória - ES - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=45
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=45
 
 # Physical channel 16
 [TV Capixaba]
@@ -263,7 +263,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 56
-[Record News]
+[TV Sim Cachoeiro]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 725142857
