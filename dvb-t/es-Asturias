@@ -61,7 +61,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 35: Proximamente, Discovery Max, Disney Channel, Paramount Channel, Cope, Radio María, Radio Marca, Vaughan Radio, esRadio]
+[Canal 35: GOL, Discovery Max, Disney Channel, Paramount Channel, Cope, Radio María, Radio Marca, Vaughan Radio, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 586000000
 	BANDWIDTH_HZ = 8000000
