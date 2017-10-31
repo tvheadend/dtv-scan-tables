@@ -1,6 +1,14 @@
 # UPC Česká republika | https://www.upc.cz/
-# Created from http://www.upczone.cz/download/seznam_muxu.htm
-# Last updated: 15/10/2016
+# Created from https://www.upc.cz/content/dam/www-upc-cz/pdf/2017/prog_2017_razeni_CZ.xlsx.pdf
+# Last updated: 31/10/2017
+
+[CHANNEL]
+	DELIVERY_SYSTEM = DVBC/ANNEX_A
+	FREQUENCY = 546000000
+	SYMBOL_RATE = 6900000
+	INNER_FEC = 3/5
+	MODULATION = QAM/256
+	INVERSION = AUTO  
 
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBC/ANNEX_A
@@ -41,6 +49,14 @@
 	INNER_FEC = 3/5
 	MODULATION = QAM/256
 	INVERSION = AUTO
+  
+[CHANNEL]
+	DELIVERY_SYSTEM = DVBC/ANNEX_A
+	FREQUENCY = 594000000
+	SYMBOL_RATE = 6900000
+	INNER_FEC = 3/5
+	MODULATION = QAM/256
+	INVERSION = AUTO  
 
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBC/ANNEX_A
@@ -71,7 +87,7 @@
 	FREQUENCY = 626000000
 	SYMBOL_RATE = 6900000
 	INNER_FEC = 3/5
-	MODULATION = QAM/64
+	MODULATION = QAM/256
 	INVERSION = AUTO
 
 [CHANNEL]
