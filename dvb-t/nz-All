@@ -1,4 +1,4 @@
-Full list of all NZ DVB-T frequencies
+# Full list of all NZ DVB-T frequencies
 
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT
