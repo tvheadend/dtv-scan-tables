@@ -1,9 +1,10 @@
 #----------------------------------------------------------------------------------------------
 # Auto-generated from:
-# <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/BA5 3LB/NA/0/>
+# <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/BA5Â 3LB/NA/0/>
+# Updated due to changes in MUX frequency 9 March 2018
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Mendip
-# date (yyyy-mm-dd)    : 2015-01-17
+# date (yyyy-mm-dd)    : 2018-03-09
 #
 #----------------------------------------------------------------------------------------------
 [C49 BBC A]
@@ -32,7 +33,7 @@
 
 [C33 COM7 HD]
 	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 570000000
+	FREQUENCY = 594000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -57,7 +58,7 @@
 
 [C56 ARQ A]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 754000000
+	FREQUENCY = 570000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
