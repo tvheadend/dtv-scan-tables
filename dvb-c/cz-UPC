@@ -1,6 +1,14 @@
 # UPC Česká republika | https://www.upc.cz/
-# Created from https://www.upc.cz/content/dam/www-upc-cz/pdf/2017/prog_2017_razeni_CZ.xlsx.pdf
-# Last updated: 31/10/2017
+# Created from https://www.upc.cz/pdf/Frekvencni_prehled_digitalni_kabelove_televizee.pdf
+# Last updated: 5/10/2018
+
+[CHANNEL]
+	DELIVERY_SYSTEM = DVBC/ANNEX_A
+	FREQUENCY = 538000000
+	SYMBOL_RATE = 6900000
+	INNER_FEC = 3/5
+	MODULATION = QAM/256
+	INVERSION = AUTO
 
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBC/ANNEX_A
@@ -8,7 +16,7 @@
 	SYMBOL_RATE = 6900000
 	INNER_FEC = 3/5
 	MODULATION = QAM/256
-	INVERSION = AUTO  
+	INVERSION = AUTO
 
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBC/ANNEX_A
@@ -49,14 +57,14 @@
 	INNER_FEC = 3/5
 	MODULATION = QAM/256
 	INVERSION = AUTO
-  
+
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBC/ANNEX_A
 	FREQUENCY = 594000000
 	SYMBOL_RATE = 6900000
 	INNER_FEC = 3/5
 	MODULATION = QAM/256
-	INVERSION = AUTO  
+	INVERSION = AUTO
 
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBC/ANNEX_A
