@@ -1,5 +1,5 @@
 # Channel table for Verê - PR - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=1749
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1749
 
 # Physical channel 19
 [Rede Vida]
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 41
-[RPC]
+[RPC Foz do Iguaçu]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 635142857

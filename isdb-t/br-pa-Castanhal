@@ -1,8 +1,8 @@
 # Channel table for Castanhal - PA - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=364
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=364
 
 # Physical channel 25
-[RTP]
+[SBT Castanhal]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 539142857

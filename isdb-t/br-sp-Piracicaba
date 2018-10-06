@@ -1,5 +1,5 @@
 # Channel table for Piracicaba - SP - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=47
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=47
 
 # Physical channel 16
 [Band Campinas]
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 30
-[VTV]
+[VTV, Saudade FM]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 60
-[TV Câmara Municipal, TV Câmara, TV ALESP]
+[TV Câmara, TV Assembleia SP, TV Senado, TV Câmara Municipal]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 749142857

@@ -1,8 +1,8 @@
 # Channel table for Assis Chateaubriand - PR - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=183
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=183
 
 # Physical channel 31
-[RPC]
+[RPC Cascavel]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 575142857

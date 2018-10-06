@@ -1,8 +1,8 @@
 # Channel table for Pimenta Bueno - RO - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=498
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=498
 
 # Physical channel 40
-[TV Candelária]
+[SIC TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 629142857
