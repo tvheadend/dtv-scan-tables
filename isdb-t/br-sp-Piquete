@@ -1,8 +1,8 @@
 # Channel table for Piquete - SP - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=369
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=369
 
 # Physical channel 17
-[TV Vanguarda]
+[TV Vanguarda Taubaté]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 491142857

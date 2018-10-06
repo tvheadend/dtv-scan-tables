@@ -1,8 +1,8 @@
 # Channel table for Imbituva - PR - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=1706
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1706
 
 # Physical channel 42
-[RPC]
+[RPC Ponta Grossa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 641142857

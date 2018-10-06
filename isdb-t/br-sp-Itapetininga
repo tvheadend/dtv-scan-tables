@@ -1,8 +1,8 @@
 # Channel table for Itapetininga - SP - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=271
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=271
 
 # Physical channel 17
-[Band SP Interior]
+[Band]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 491142857

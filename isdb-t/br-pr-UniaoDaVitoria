@@ -1,8 +1,8 @@
 # Channel table for União da Vitória - PR - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=316
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=316
 
 # Physical channel 29
-[RPC]
+[RPC Guarapuava]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 563142857
