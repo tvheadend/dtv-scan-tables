@@ -1,0 +1,10 @@
+# Vrbové transmitters list
+# Created from https://www.teleoff.gov.sk/digitalne-vysielanie/ and https://www.teleoff.gov.sk/prehlad-povolenych-dvb-t-a-t-dab-vysielacov/ and http://www.cezantenu.sk/pre-profesionalov/
+# Updated 21/01/2019
+
+# Vrbové - vodojem Krakovany
+# Channel 36
+[CHANNEL]
+	DELIVERY_SYSTEM = DVBT
+	FREQUENCY = 594000000
+	BANDWIDTH_HZ = 8000000
