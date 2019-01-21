@@ -3,7 +3,7 @@
 # Updated 21/01/2019
 
 # Galanta - Matúškovská cesta 1586/18
-# Channel 41
+# Channel 29
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 538000000
