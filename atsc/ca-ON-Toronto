@@ -10,10 +10,10 @@
 # More distant stations like Rochester and Syracuse are listed below
 #
 #------------------------------------------------------------------------------
-# CFTO, Toronto CTV, physical channel 9, virtual channel 9, 17.4 kW, 1611' CN tower, 43.642500 -79.387222
+# CFTO, Toronto CTV, physical channel 8, virtual channel 9, 17.4 kW, 1611' CN tower, 43.642500 -79.387222
 [CHANNEL 9]
 	DELIVERY_SYSTEM = ATSC
-	FREQUENCY = 189028615
+	FREQUENCY = 183028615
 	MODULATION = VSB/8
 	INVERSION = AUTO
 
