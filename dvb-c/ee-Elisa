@@ -1,4 +1,4 @@
-# Starman DVB-C
+# Elisa DVB-C
 # Specs and info - https://www.elisa.ee/et/abi/abikeskus/televisioon/elisa-klassik-kaabliga/lisainfo/
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBC/ANNEX_A
