@@ -1,8 +1,8 @@
 # Channel table for Birigui - SP - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=862
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=862
 
 # Physical channel 24
-[Band SP Interior]
+[Band Paulista]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 533142857
@@ -117,11 +117,11 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 43
-[Record Rio Preto]
+# Physical channel 42
+[Record TV Rio Preto]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
-	FREQUENCY = 647142857
+	FREQUENCY = 641142857
 	INVERSION = AUTO
 	GUARD_INTERVAL = AUTO
 	TRANSMISSION_MODE = AUTO
@@ -175,11 +175,11 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 50
+# Physical channel 59
 [TV Canção Nova]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
-	FREQUENCY = 689142857
+	FREQUENCY = 743142857
 	INVERSION = AUTO
 	GUARD_INTERVAL = AUTO
 	TRANSMISSION_MODE = AUTO

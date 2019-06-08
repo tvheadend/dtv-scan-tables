@@ -3,7 +3,7 @@
 # <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/PA65 6AZ/NA/0/>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Torosay
-# date (yyyy-mm-dd)    : 2014-03-25
+# date (yyyy-mm-dd)    : 2018-08-30
 #
 #----------------------------------------------------------------------------------------------
 [C28 BBC A]
@@ -54,9 +54,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C29 ARQ B]
+[C30 ARQ B]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 538000000
+	FREQUENCY = 546000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE

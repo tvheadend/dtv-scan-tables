@@ -1,0 +1,11 @@
+# Channel table for AMC 8 at 139.0°W
+# Source: http://www.lyngsat.com/AMC-8.html
+
+[Alaska mux]
+	DELIVERY_SYSTEM = DVBS
+	FREQUENCY = 4056000
+	POLARIZATION = HORIZONTAL
+	SYMBOL_RATE = 13250000
+	INNER_FEC = AUTO
+	INVERSION = AUTO
+

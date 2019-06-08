@@ -1,8 +1,8 @@
 # Channel table for Restinga - SP - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=2794
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2794
 
 # Physical channel 14
-[Record Interior]
+[Record TV Interior SP]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 473142857

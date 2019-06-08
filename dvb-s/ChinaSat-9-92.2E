@@ -1,0 +1,11 @@
+# Channel table for ChinaSat 9 at 92.2°E
+# Source: http://www.lyngsat.com/ChinaSat-9.html
+
+[channel 12180000]
+	DELIVERY_SYSTEM = DVBS
+	FREQUENCY = 12180000
+	POLARIZATION = RIGHT
+	SYMBOL_RATE = 28800000
+	INNER_FEC = AUTO
+	INVERSION = AUTO
+

@@ -1,0 +1,12 @@
+# Channel table for Intelsat 28 at 32.9°E
+# Source: http://www.lyngsat.com/Intelsat-28.html
+
+[UAU!TV]
+	DELIVERY_SYSTEM = DVBS2
+	FREQUENCY = 10975000
+	POLARIZATION = HORIZONTAL
+	SYMBOL_RATE = 30000000
+	MODULATION = QPSK
+	INNER_FEC = AUTO
+	INVERSION = AUTO
+

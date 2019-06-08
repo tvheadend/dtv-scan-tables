@@ -1,5 +1,5 @@
 # Channel table for Marataízes - ES - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=1521
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1521
 
 # Physical channel 21
 [TV Gazeta Sul]
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 36
-[Record News]
+[Record News ES]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 605142857

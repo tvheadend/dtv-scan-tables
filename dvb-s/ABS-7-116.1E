@@ -1,0 +1,11 @@
+# Channel table for ABS 7 at 116.1°E
+# Source: http://www.lyngsat.com/ABS-7.html
+
+[channel 12687000]
+	DELIVERY_SYSTEM = DVBS
+	FREQUENCY = 12687000
+	POLARIZATION = HORIZONTAL
+	SYMBOL_RATE = 2050000
+	INNER_FEC = AUTO
+	INVERSION = AUTO
+

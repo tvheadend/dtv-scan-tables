@@ -1,27 +1,27 @@
 # 2014-04-18 Antti Palosaari <crope@iki.fi>
 # generated from http://www.digita.fi/kuluttajat/tv/nakyvyysalueet/kanavanumerot_ja_taajuudet
 
-[Anjalankoski_Ruotila]
+[Anjalankoski-A]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 482000000
 	BANDWIDTH_HZ = 8000000
 
-[Anjalankoski_Ruotila]
-	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 522000000
+[Anjalankoski-B]
+	DELIVERY_SYSTEM = DVBT2
+	FREQUENCY = 658000000
 	BANDWIDTH_HZ = 8000000
 
-[Anjalankoski_Ruotila]
+[Anjalankoski-C]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 730000000
+	FREQUENCY = 514000000
 	BANDWIDTH_HZ = 8000000
 
-[Anjalankoski_Ruotila]
+[Anjalankoski-D]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 754000000
+	FREQUENCY = 618000000
 	BANDWIDTH_HZ = 8000000
 
-[Anjalankoski_Ruotila]
+[Anjalankoski-E]
 	DELIVERY_SYSTEM = DVBT2
 	FREQUENCY = 634000000
 	BANDWIDTH_HZ = 8000000

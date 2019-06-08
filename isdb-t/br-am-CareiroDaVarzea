@@ -1,5 +1,5 @@
 # Channel table for Careiro da Várzea - AM - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=2447
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2447
 
 # Physical channel 15
 [TV Amazonas]
@@ -147,7 +147,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 35
-[Record News]
+[TV Diário]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 599142857
@@ -205,7 +205,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 50
-[Rede Floresta]
+[Local TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 689142857

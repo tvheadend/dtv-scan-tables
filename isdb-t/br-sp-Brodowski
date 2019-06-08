@@ -1,5 +1,5 @@
 # Channel table for Brodowski - SP - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=783
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=783
 
 # Physical channel 16
 [TV Clube Ribeirão Preto]
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 28
-[Record Interior]
+[Record TV Interior SP]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 557142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 35
-[Rede Vida]
+[Record News]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 599142857

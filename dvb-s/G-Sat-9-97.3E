@@ -1,0 +1,11 @@
+# Channel table for G-Sat 9 at 97.3°E
+# Source: http://www.lyngsat.com/G-Sat-9.html
+
+[channel 11590000]
+	DELIVERY_SYSTEM = DVBS
+	FREQUENCY = 11590000
+	POLARIZATION = VERTICAL
+	SYMBOL_RATE = 1450000
+	INNER_FEC = AUTO
+	INVERSION = AUTO
+

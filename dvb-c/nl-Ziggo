@@ -1,42 +1,25 @@
 # Initial Tuning file for nl-Ziggo
 # This file only lists the main
-# frequencies. You still need to do
+# frequencie. You still need to do
 # a network scan to find other
 # transponders.
+# Also set the network id
+# (aka nit other) to: 5555
 #
-# based on:
-# http://blob.ziggo.nl/dynamic/NL_HOME/PDF-UPLOAD/Gebruikers-Handleiding-DigitaleTV.pdf
-# Chapter 4
-#
-[Main Frequency Ziggo/Casema]
+
+[Main Frequency Ziggo]
 	DELIVERY_SYSTEM = DVBC/ANNEX_A
-	FREQUENCY = 372000000
+	FREQUENCY = 474000000
 	SYMBOL_RATE = 6875000
 	INNER_FEC = NONE
 	MODULATION = QAM/64
 	INVERSION = AUTO
 
-[Main Frequency Ziggo/Multikabel]
+# Former UPC area
+[Main Frequency Ziggo]
 	DELIVERY_SYSTEM = DVBC/ANNEX_A
-	FREQUENCY = 514000000
-	SYMBOL_RATE = 6875000
+	FREQUENCY = 164000000
+	SYMBOL_RATE = 6900000
 	INNER_FEC = NONE
 	MODULATION = QAM/64
 	INVERSION = AUTO
-
-[Main Frequency Ziggo/@Home Zuid]
-	DELIVERY_SYSTEM = DVBC/ANNEX_A
-	FREQUENCY = 356000000
-	SYMBOL_RATE = 6875000
-	INNER_FEC = NONE
-	MODULATION = QAM/64
-	INVERSION = AUTO
-
-[Main Frequency Ziggo/@Home Noord]
-	DELIVERY_SYSTEM = DVBC/ANNEX_A
-	FREQUENCY = 369000000
-	SYMBOL_RATE = 6875000
-	INNER_FEC = NONE
-	MODULATION = QAM/64
-	INVERSION = AUTO
-

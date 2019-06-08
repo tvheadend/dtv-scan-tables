@@ -1,8 +1,8 @@
 # Channel table for Garibaldi - RS - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=1629
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1629
 
 # Physical channel 35
-[RBS TV]
+[RBS Caxias do Sul]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 599142857

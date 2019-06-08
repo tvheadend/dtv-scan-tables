@@ -1,0 +1,12 @@
+# Channel table for DirecTV 7S at 119.0°W
+# Source: http://www.lyngsat.com/DirecTV-7S.html
+
+[DirecTV USA]
+	DELIVERY_SYSTEM = DVBS2
+	FREQUENCY = 12559000
+	POLARIZATION = LEFT
+	SYMBOL_RATE = 20000000
+	MODULATION = PSK/8
+	INNER_FEC = AUTO
+	INVERSION = AUTO
+

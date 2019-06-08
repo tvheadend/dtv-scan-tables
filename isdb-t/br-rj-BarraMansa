@@ -1,5 +1,5 @@
 # Channel table for Barra Mansa - RJ - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=401
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=401
 
 # Physical channel 24
 [SBT Interior/RJ]
@@ -147,7 +147,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 38
-[Record RJ]
+[Record TV Rio]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857

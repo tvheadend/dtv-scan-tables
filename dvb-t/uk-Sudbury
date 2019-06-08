@@ -3,7 +3,7 @@
 # <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/CO10 5NG/NA/0/>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Sudbury
-# date (yyyy-mm-dd)    : 2014-03-25
+# date (yyyy-mm-dd)    : 2018-08-30
 #
 #----------------------------------------------------------------------------------------------
 [C44 BBC A]
@@ -30,9 +30,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C58 SDN]
+[C29 SDN]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 770000000
+	FREQUENCY = 538000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
@@ -42,9 +42,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C60- ARQ A]
+[C31 ARQ A]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 785833000
+	FREQUENCY = 554000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
@@ -54,9 +54,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C56 ARQ B]
+[C37 ARQ B]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 754000000
+	FREQUENCY = 602000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE

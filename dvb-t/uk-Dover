@@ -3,7 +3,7 @@
 # <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/CT15 7AQ/NA/0/>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Dover
-# date (yyyy-mm-dd)    : 2014-03-25
+# date (yyyy-mm-dd)    : 2018-08-30
 #
 #----------------------------------------------------------------------------------------------
 [C50 BBC A]
@@ -30,9 +30,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C55 SDN]
+[C35 SDN]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 746000000
+	FREQUENCY = 586000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE

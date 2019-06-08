@@ -3,12 +3,12 @@
 # <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/AB55 6XP/NA/0/>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Knockmore
-# date (yyyy-mm-dd)    : 2014-03-25
+# date (yyyy-mm-dd)    : 2018-08-30
 #
 #----------------------------------------------------------------------------------------------
-[C26 BBC A]
+[C31 BBC A]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 514000000
+	FREQUENCY = 554000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -18,9 +18,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C23 D3&4]
+[C37 D3&4]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 490000000
+	FREQUENCY = 602000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -30,9 +30,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C53 SDN]
+[C33 SDN]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 730000000
+	FREQUENCY = 570000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
@@ -42,9 +42,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C57 ARQ A]
+[C36 ARQ A]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 762000000
+	FREQUENCY = 594000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
@@ -54,9 +54,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C60- ARQ B]
+[C48 ARQ B]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 785833000
+	FREQUENCY = 690000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE

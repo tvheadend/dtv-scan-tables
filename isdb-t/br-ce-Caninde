@@ -1,11 +1,11 @@
 # Channel table for Canindé - CE - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=588
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=588
 
-# Physical channel 45
-[NordesTV]
+# Physical channel 40
+[TV Canção Nova]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
-	FREQUENCY = 659142857
+	FREQUENCY = 629142857
 	INVERSION = AUTO
 	GUARD_INTERVAL = AUTO
 	TRANSMISSION_MODE = AUTO

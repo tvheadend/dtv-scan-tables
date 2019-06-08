@@ -1,8 +1,8 @@
 # Channel table for Trajano de Morais - RJ - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=2270
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2270
 
 # Physical channel 39
-[Record RJ]
+[Record TV Rio]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 623142857

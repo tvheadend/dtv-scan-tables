@@ -3,12 +3,12 @@
 # <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/EX14 9EP/NA/0/>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Stockland Hill
-# date (yyyy-mm-dd)    : 2014-03-25
+# date (yyyy-mm-dd)    : 2018-08-30
 #
 #----------------------------------------------------------------------------------------------
 [C26+ BBC A]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 514000000
+	FREQUENCY = 514167000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -20,7 +20,7 @@
 
 [C23+ D3&4]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 490000000
+	FREQUENCY = 490167000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -32,7 +32,7 @@
 
 [C25- SDN]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 506000000
+	FREQUENCY = 505833000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
@@ -44,7 +44,7 @@
 
 [C22- ARQ A]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 482000000
+	FREQUENCY = 481833000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
@@ -56,7 +56,7 @@
 
 [C28- ARQ B]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 530000000
+	FREQUENCY = 529833000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
@@ -68,7 +68,7 @@
 
 [C29+ BBC B HD]
 	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 538000000
+	FREQUENCY = 538167000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE

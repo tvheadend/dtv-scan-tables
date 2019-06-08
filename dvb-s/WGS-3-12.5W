@@ -1,0 +1,12 @@
+# Channel table for WGS 3 at 12.5°W
+# Source: http://www.lyngsat.com/WGS-3.html
+
+[DR 1]
+	DELIVERY_SYSTEM = DVBS2
+	FREQUENCY = 21048000
+	POLARIZATION = LEFT
+	SYMBOL_RATE = 6368000
+	MODULATION = QPSK
+	INNER_FEC = AUTO
+	INVERSION = AUTO
+

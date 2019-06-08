@@ -1,8 +1,8 @@
 # Channel table for Guabiruba - SC - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=1564
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1564
 
 # Physical channel 33
-[RBS SC]
+[NSC Blumenau]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 587142857

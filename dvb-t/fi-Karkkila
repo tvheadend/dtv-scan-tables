@@ -1,23 +1,18 @@
 # 2014-04-18 Antti Palosaari <crope@iki.fi>
 # generated from http://www.digita.fi/kuluttajat/tv/nakyvyysalueet/kanavanumerot_ja_taajuudet
 
-[Karkkila]
+[Karkkila-A]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 594000000
+	FREQUENCY = 666000000
 	BANDWIDTH_HZ = 8000000
 
-[Karkkila]
+[Karkkila-C]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 618000000
+	FREQUENCY = 610000000
 	BANDWIDTH_HZ = 8000000
 
-[Karkkila]
+[Karkkila-E]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 762000000
-	BANDWIDTH_HZ = 8000000
-
-[Karkkila]
-	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 698000000
+	FREQUENCY = 530000000
 	BANDWIDTH_HZ = 8000000
 

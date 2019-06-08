@@ -1,8 +1,8 @@
 # Channel table for Nova Petrópolis - RS - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=2157
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=2157
 
 # Physical channel 33
-[RBS TV]
+[RBS Caxias do Sul]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 587142857

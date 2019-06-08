@@ -1,5 +1,5 @@
 # Channel table for São João da Barra - RJ - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=1460
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=1460
 
 # Physical channel 14
 [Band Rio Interior]
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 38
-[Record Campos]
+[Record TV Interior RJ]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857

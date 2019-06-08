@@ -1,0 +1,12 @@
+# Channel table for BRIsat at 150.5°E
+# Source: http://www.lyngsat.com/BRIsat.html
+
+[BRI Vision]
+	DELIVERY_SYSTEM = DVBS2
+	FREQUENCY = 4058000
+	POLARIZATION = VERTICAL
+	SYMBOL_RATE = 10000000
+	MODULATION = QPSK
+	INNER_FEC = AUTO
+	INVERSION = AUTO
+

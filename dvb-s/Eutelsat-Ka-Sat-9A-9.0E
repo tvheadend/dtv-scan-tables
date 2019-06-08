@@ -1,0 +1,12 @@
+# Channel table for Eutelsat Ka-Sat 9A at 9.0°E
+# Source: http://www.lyngsat.com/Eutelsat-Ka-Sat-9A.html
+
+[2RN]
+	DELIVERY_SYSTEM = DVBS2
+	FREQUENCY = 20185000
+	POLARIZATION = LEFT
+	SYMBOL_RATE = 25000000
+	MODULATION = QPSK
+	INNER_FEC = AUTO
+	INVERSION = AUTO
+

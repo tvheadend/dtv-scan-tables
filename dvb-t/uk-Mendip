@@ -3,7 +3,7 @@
 # <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/BA5 3LB/NA/0/>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Mendip
-# date (yyyy-mm-dd)    : 2015-01-17
+# date (yyyy-mm-dd)    : 2018-08-30
 #
 #----------------------------------------------------------------------------------------------
 [C49 BBC A]
@@ -30,9 +30,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C33 COM7 HD]
+[C36 COM7 HD]
 	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 570000000
+	FREQUENCY = 594000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -55,9 +55,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C56 ARQ A]
+[C33 ARQ A]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 754000000
+	FREQUENCY = 570000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
@@ -90,5 +90,30 @@
 	GUARD_INTERVAL = 1/128
 	HIERARCHY = NONE
 	STREAM_ID = 0
+	INVERSION = AUTO
+
+[C35 COM8 HD]
+	DELIVERY_SYSTEM = DVBT2
+	FREQUENCY = 586000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 2/3
+	CODE_RATE_LP = NONE
+	MODULATION = QAM/256
+	TRANSMISSION_MODE = 32K
+	GUARD_INTERVAL = 1/128
+	HIERARCHY = NONE
+	STREAM_ID = 0
+	INVERSION = AUTO
+
+[C51 L-BSL]
+	DELIVERY_SYSTEM = DVBT
+	FREQUENCY = 714000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 3/4
+	CODE_RATE_LP = NONE
+	MODULATION = QPSK
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/32
+	HIERARCHY = NONE
 	INVERSION = AUTO
 

@@ -3,7 +3,7 @@
 # <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/BL6 6SL/NA/0/>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Winter Hill
-# date (yyyy-mm-dd)    : 2014-03-25
+# date (yyyy-mm-dd)    : 2018-08-30
 #
 #----------------------------------------------------------------------------------------------
 [C50 BBC A]
@@ -30,9 +30,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C31 COM7 HD]
+[C55 COM7 HD]
 	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 554000000
+	FREQUENCY = 746000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -67,9 +67,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C55 ARQ B]
+[C37 ARQ B]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 746000000
+	FREQUENCY = 602000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
@@ -90,5 +90,30 @@
 	GUARD_INTERVAL = 1/128
 	HIERARCHY = NONE
 	STREAM_ID = 0
+	INVERSION = AUTO
+
+[C31 COM8 HD]
+	DELIVERY_SYSTEM = DVBT2
+	FREQUENCY = 554000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 2/3
+	CODE_RATE_LP = NONE
+	MODULATION = QAM/256
+	TRANSMISSION_MODE = 32K
+	GUARD_INTERVAL = 1/128
+	HIERARCHY = NONE
+	STREAM_ID = 0
+	INVERSION = AUTO
+
+[C40 L-MAN / L-LIV / L-PTN]
+	DELIVERY_SYSTEM = DVBT
+	FREQUENCY = 626000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 3/4
+	CODE_RATE_LP = NONE
+	MODULATION = QPSK
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/32
+	HIERARCHY = NONE
 	INVERSION = AUTO
 

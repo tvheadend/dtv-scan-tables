@@ -1,8 +1,8 @@
 # Channel table for Laguna - SC - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=220
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=220
 
 # Physical channel 30
-[RIC SC]
+[RICTV Florianópolis]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 35
-[RBS SC]
+[NSC Criciúma]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 599142857

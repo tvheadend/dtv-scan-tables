@@ -1,0 +1,11 @@
+# Channel table for G-Sat 16 at 55.0°E
+# Source: http://www.lyngsat.com/G-Sat-16.html
+
+[channel 4168000]
+	DELIVERY_SYSTEM = DVBS
+	FREQUENCY = 4168000
+	POLARIZATION = VERTICAL
+	SYMBOL_RATE = 2400000
+	INNER_FEC = AUTO
+	INVERSION = AUTO
+

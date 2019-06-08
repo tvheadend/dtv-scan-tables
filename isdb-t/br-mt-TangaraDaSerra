@@ -1,8 +1,8 @@
 # Channel table for Tangará da Serra - MT - Brazil
-# Source: http://portalbsd.com.br/novo/terrestres_channels.php?channels=206
+# Source: http://www.portalbsd.com.br/terrestres_channels.php?channels=206
 
 # Physical channel 36
-[TV Centro América]
+[TV Centro América Tangará]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 605142857

@@ -1,0 +1,12 @@
+# Channel table for Vinasat 2 at 131.8°E
+# Source: http://www.lyngsat.com/Vinasat-2.html
+
+[HTVC]
+	DELIVERY_SYSTEM = DVBS2
+	FREQUENCY = 11088000
+	POLARIZATION = VERTICAL
+	SYMBOL_RATE = 28800000
+	MODULATION = PSK/8
+	INNER_FEC = AUTO
+	INVERSION = AUTO
+
