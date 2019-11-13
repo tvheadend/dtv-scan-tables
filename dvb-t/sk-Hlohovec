@@ -1,0 +1,10 @@
+# Hlohovec transmitters list
+# Created from https://www.teleoff.gov.sk/digitalne-vysielanie/ and https://www.teleoff.gov.sk/prehlad-povolenych-dvb-t-a-t-dab-vysielacov/ and http://www.cezantenu.sk/pre-profesionalov/
+# Updated 21/01/2019
+
+# Hlohovec - Koperníkova ulica 3
+# Channel 22
+[CHANNEL]
+	DELIVERY_SYSTEM = DVBT
+	FREQUENCY = 482000000
+	BANDWIDTH_HZ = 8000000

@@ -1,48 +1,87 @@
-# DVB-T Bratislava (Bratislava, Slovak Republic)
-# Created from http://www.dvbt.towercom.sk/odbornici.php
+# Slovakia - Bratislava
+# Created from https://www.teleoff.gov.sk/digitalne-vysielanie/ and https://www.teleoff.gov.sk/prehlad-povolenych-dvb-t-a-t-dab-vysielacov/ and http://www.cezantenu.sk/pre-profesionalov/
+# Updated 21/01/2019
 
-# 2.st multiplex (commercial) - on channel 56
+# Mux 1 - Kamzík
+# Channel 44
+[CHANNEL]
+	DELIVERY_SYSTEM = DVBT
+	FREQUENCY = 658000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = AUTO
+	CODE_RATE_LP = NONE
+	MODULATION = QAM/64
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = AUTO
+	HIERARCHY = NONE
+	INVERSION = AUTO
+	
+# Mux 2 - Kamzík
+# Channel 56
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 754000000
 	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
+	CODE_RATE_HP = AUTO
 	CODE_RATE_LP = NONE
 	MODULATION = QAM/64
 	TRANSMISSION_MODE = 8K
-	GUARD_INTERVAL = 1/4
+	GUARD_INTERVAL = AUTO
 	HIERARCHY = NONE
-	INVERSION = AUTO
-
-
-# 3.st multiplex (public) - on channel 27
+	INVERSION = AUTO	
+	
+# Mux 3 - Kamzík
+# Channel 27
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 522000000
 	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
+	CODE_RATE_HP = AUTO
 	CODE_RATE_LP = NONE
 	MODULATION = QAM/64
 	TRANSMISSION_MODE = 8K
-	GUARD_INTERVAL = 1/4
+	GUARD_INTERVAL = AUTO
+	HIERARCHY = NONE
+	INVERSION = AUTO	
+	
+# Mux 4 - Kamzík
+# Channel 39
+[CHANNEL]
+	DELIVERY_SYSTEM = DVBT2
+	FREQUENCY = 618000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = AUTO
+	CODE_RATE_LP = NONE
+	MODULATION = QAM/256
+	TRANSMISSION_MODE = 32K
+	GUARD_INTERVAL = AUTO
+	HIERARCHY = NONE
+	INVERSION = AUTO	
+	
+# Bratislava - Bratislavská tepl., a.s., Vlčie hrdlo
+# Channel 32
+[CHANNEL]
+	DELIVERY_SYSTEM = DVBT2
+	FREQUENCY = 562000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = AUTO
+	CODE_RATE_LP = NONE
+	MODULATION = QAM/64
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = AUTO
 	HIERARCHY = NONE
 	INVERSION = AUTO
-
-
-#
-# T- Video Agency
-# (TODO: http://www.zive.sk/bratislava-sa-dockala-novych-programov-v-dvb-t-divaci-si-naladia-uz-aj-ta3/sc-4-a-298830/default.aspx)
-#
-# regional multiplex - on channel 55
+	
+# Bratislava - Blagoevova 4
+# Channel 26
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 746000000
+	FREQUENCY = 514000000
 	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 1/2
-	CODE_RATE_LP = NONE
-	MODULATION = QAM/64
-	TRANSMISSION_MODE = 8K
-	GUARD_INTERVAL = 1/4
-	HIERARCHY = NONE
-	INVERSION = AUTO
-
+	
+# Bratislava - Kamzík
+# Channel 37
+[CHANNEL]
+	DELIVERY_SYSTEM = DVBT
+	FREQUENCY = 602000000
+	BANDWIDTH_HZ = 8000000

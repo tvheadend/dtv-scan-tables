@@ -1,0 +1,10 @@
+# Galanta transmitters list
+# Created from https://www.teleoff.gov.sk/digitalne-vysielanie/ and https://www.teleoff.gov.sk/prehlad-povolenych-dvb-t-a-t-dab-vysielacov/ and http://www.cezantenu.sk/pre-profesionalov/
+# Updated 21/01/2019
+
+# Galanta - Matúškovská cesta 1586/18
+# Channel 29
+[CHANNEL]
+	DELIVERY_SYSTEM = DVBT
+	FREQUENCY = 538000000
+	BANDWIDTH_HZ = 8000000
