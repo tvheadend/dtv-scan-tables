@@ -1,5 +1,5 @@
 # EUTELSAT SkyPlex, Hotbird 13E
-
+# freq pol sr fec
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBS2
 	FREQUENCY = 10719000
