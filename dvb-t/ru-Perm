@@ -1,0 +1,43 @@
+# Scan tables for DVB-T2 channels in Perm (Russia)
+# Created from https://карта.ртрс.рф/rtrs/node/2496
+# Contributed by: Алексей Михайлов <citizen777@list.ru>
+# Last change: 2020-10-17
+
+[РТРС-1: ПЕРВЫЙ КАНАЛ, МАТЧ!, НТВ, ПЯТЫЙ КАНАЛ, РОССИЯ-К, КАРУСЕЛЬ, ТВ Центр, ВЕСТИ ФМ, МАЯК]
+    DELIVERY_SYSTEM = DVBT2
+    FREQUENCY = 490000000
+    BANDWIDTH_HZ = 8000000
+    CODE_RATE_HP = AUTO
+    CODE_RATE_LP = AUTO
+    MODULATION = QAM/AUTO
+    TRANSMISSION_MODE = AUTO
+    GUARD_INTERVAL = AUTO
+    HIERARCHY = NONE
+    INVERSION = AUTO
+    STREAM_ID = 0
+
+[РТРС-1: РОССИЯ-1, РОССИЯ-24, ОТР, Радио России]
+    DELIVERY_SYSTEM = DVBT2
+    FREQUENCY = 490000000
+    BANDWIDTH_HZ = 8000000
+    CODE_RATE_HP = AUTO
+    CODE_RATE_LP = AUTO
+    MODULATION = QAM/AUTO
+    TRANSMISSION_MODE = AUTO
+    GUARD_INTERVAL = AUTO
+    HIERARCHY = NONE
+    INVERSION = AUTO
+    STREAM_ID = 1
+
+[РТРС-2: РЕН ТВ, Спас, СТС, Домашний, ТВ3, Пятница, Звезда, МИР, ТНТ, МУЗ ТВ]
+    DELIVERY_SYSTEM = DVBT2
+    FREQUENCY = 698000000
+    BANDWIDTH_HZ = 8000000
+    CODE_RATE_HP = AUTO
+    CODE_RATE_LP = AUTO
+    MODULATION = QAM/AUTO
+    TRANSMISSION_MODE = AUTO
+    GUARD_INTERVAL = AUTO
+    HIERARCHY = NONE
+    INVERSION = AUTO
+    STREAM_ID = 0
