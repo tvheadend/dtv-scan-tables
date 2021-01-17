@@ -1,14 +1,14 @@
 #----------------------------------------------------------------------------------------------
-# Auto-generated from:
-# <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/NR16 1DW/NA/0/>
+# Manually derived from:
+# <https://fmscan.org/>
+# <https://www.freeview.co.uk/help/coverage-checker/detailed-view>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Tacolneston
-# date (yyyy-mm-dd)    : 2015-01-17
-#
+# date (yyyy-mm-dd)    : 2020-01-17
 #----------------------------------------------------------------------------------------------
-[C55- BBC A]
+[C40- BBC A]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 745833000
+	FREQUENCY = 626000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -18,9 +18,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C59- D3&4]
+[C43- D3&4]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 777833000
+	FREQUENCY = 650000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -30,9 +30,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C31 COM7 HD]
+[C55- COM7 HD]
 	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 554000000
+	FREQUENCY = 746000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -67,9 +67,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C39+ ARQ B]
+[C39 ARQ B]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 618167000
+	FREQUENCY = 618000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
@@ -79,9 +79,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C50 BBC B HD]
+[C46 BBC B HD]
 	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 706000000
+	FREQUENCY = 674000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -92,3 +92,14 @@
 	STREAM_ID = 0
 	INVERSION = AUTO
 
+[C32- L-NOR]
+	DELIVERY_SYSTEM = DVBT
+	FREQUENCY = 562000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 3/4
+	CODE_RATE_LP = NONE
+	MODULATION = QPSK
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/32
+	HIERARCHY = NONE
+	INVERSION = AUTO
