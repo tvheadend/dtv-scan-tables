@@ -1,5 +1,5 @@
 # Elisa DVB-C
-# Specs and info - https://www.elisa.ee/et/abi/abikeskus/televisioon/elisa-klassik-kaabliga/lisainfo/
+# Specs and info - https://www.elisa.ee/et/abi/abikeskus/televisioon/vanemad-tv-teenused/klassik/klassik-kaabliga-teenuse-lisainfo
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBC/ANNEX_A
 	FREQUENCY = 266000000
