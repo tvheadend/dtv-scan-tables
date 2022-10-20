@@ -1,0 +1,199 @@
+# initial tuning data for some frequencies of for the Campbell
+# includes data acquired on 10/19/2022 with: w_scan -f a -A 1 -c US
+#w_scan -f a -A 1 -c US -G 
+#w_scan version 20170107 (compiled for DVB API 5.10)
+#using settings for UNITED STATES
+#ATSC
+#VSB US/CA, DVB-T TW
+#scan type TERRCABLE_ATSC, channellist 1
+#output format vdr-2.0
+#WARNING: could not guess your codepage. Falling back to 'UTF-8'
+#output charset 'UTF-8', use -C <charset> to override
+#Info: using DVB adapter auto detection.
+#        /dev/dvb/adapter0/frontend0 -> TERRCABLE_ATSC "LG Electronics LGDT3303 VSB/QAM Frontend": good :-)
+#Using TERRCABLE_ATSC frontend (adapter /dev/dvb/adapter0/frontend0)
+#-_-_-_-_ Getting frontend capabilities-_-_-_-_
+#Using DVB API 5.10
+#frontend 'LG Electronics LGDT3303 VSB/QAM Frontend' supports
+#INVERSION_AUTO
+#8VSB
+#QAM_64
+#QAM_256
+#FREQ (54.00MHz ... 858.00MHz)
+#-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+#57000: 8VSB(time: 00:00.155)
+#63000: 8VSB(time: 00:03.199)
+#69000: 8VSB(time: 00:06.211)
+#79000: 8VSB(time: 00:09.223)
+#85000: 8VSB(time: 00:12.227)
+#177000: 8VSB(time: 00:15.235)
+#183000: 8VSB(time: 00:18.247)
+#189000: 8VSB(time: 00:21.250)
+#195000: 8VSB(time: 00:24.266)
+#201000: 8VSB(time: 00:27.274)
+#207000: 8VSB(time: 00:30.278)
+#213000: 8VSB(time: 00:33.286)
+#473000: 8VSB(time: 00:36.294)
+#479000: 8VSB(time: 00:39.297)
+#485000: 8VSB(time: 00:42.313)
+#491000: 8VSB(time: 00:45.321)
+#497000: 8VSB(time: 00:48.325)
+#503000: 8VSB(time: 00:51.333)         signal ok:        8VSB     f=503000 kHz (0:0:0)
+#509000: 8VSB(time: 00:51.569)         signal ok:        8VSB     f=509000 kHz (0:0:0)
+#515000: 8VSB(time: 00:51.801)         signal ok:        8VSB     f=515000 kHz (0:0:0)
+#521000: 8VSB(time: 00:52.241)         signal ok:        8VSB     f=521000 kHz (0:0:0)
+#527000: 8VSB(time: 00:52.473)         signal ok:        8VSB     f=527000 kHz (0:0:0)
+#533000: 8VSB(time: 00:52.705)         signal ok:        8VSB     f=533000 kHz (0:0:0)
+#539000: 8VSB(time: 00:52.937)
+#545000: 8VSB(time: 00:55.945)
+#551000: 8VSB(time: 00:58.952)         signal ok:        8VSB     f=551000 kHz (0:0:0)
+#557000: 8VSB(time: 00:59.444)         signal ok:        8VSB     f=557000 kHz (0:0:0)
+#563000: 8VSB(time: 00:59.680)         signal ok:        8VSB     f=563000 kHz (0:0:0)
+#569000: 8VSB(time: 00:59.916)         signal ok:        8VSB     f=569000 kHz (0:0:0)
+#575000: 8VSB(time: 01:00.148)         signal ok:        8VSB     f=575000 kHz (0:0:0)
+#581000: 8VSB(time: 01:02.400)         signal ok:        8VSB     f=581000 kHz (0:0:0)
+#587000: 8VSB(time: 01:02.632)         signal ok:        8VSB     f=587000 kHz (0:0:0)
+#593000: 8VSB(time: 01:02.864)         signal ok:        8VSB     f=593000 kHz (0:0:0)
+#599000: 8VSB(time: 01:03.944)         signal ok:        8VSB     f=599000 kHz (0:0:0)
+#605000: 8VSB(time: 01:04.180)         signal ok:        8VSB     f=605000 kHz (0:0:0)
+#611000: 8VSB(time: 01:04.412)
+#617000: 8VSB(time: 01:07.432)
+#623000: 8VSB(time: 01:10.440)
+#629000: 8VSB(time: 01:13.444)
+#635000: 8VSB(time: 01:16.452)
+#641000: 8VSB(time: 01:19.459)
+#647000: 8VSB(time: 01:22.467)
+#653000: 8VSB(time: 01:25.475)
+#659000: 8VSB(time: 01:28.487)
+#665000: 8VSB(time: 01:31.495)
+#671000: 8VSB(time: 01:34.503)         signal ok:        8VSB     f=671000 kHz (0:0:0)
+#677000: 8VSB(time: 01:34.843)
+#683000: 8VSB(time: 01:37.854)
+#689000: 8VSB(time: 01:40.870)
+#695000: 8VSB(time: 01:43.882)
+#701000: 8VSB(time: 01:46.886)
+#707000: 8VSB(time: 01:49.898)
+#713000: 8VSB(time: 01:52.906)
+#719000: 8VSB(time: 01:55.910)
+#725000: 8VSB(time: 01:58.921)
+#731000: 8VSB(time: 02:01.925)
+#737000: 8VSB(time: 02:04.937)
+#743000: 8VSB(time: 02:07.941)
+#749000: 8VSB(time: 02:10.945)
+#755000: 8VSB(time: 02:13.961)
+#761000: 8VSB(time: 02:16.968)
+#767000: 8VSB(time: 02:19.972)
+#773000: 8VSB(time: 02:22.980)         signal ok:        8VSB     f=773000 kHz (0:0:0)
+#779000: 8VSB(time: 02:23.316)
+#785000: 8VSB(time: 02:26.360)
+#791000: 8VSB(time: 02:29.384)
+#797000: 8VSB(time: 02:32.392)
+#803000: 8VSB(time: 02:35.396)
+
+[CHANNEL]
+	DELIVERY_SYSTEM = ATSC
+	FREQUENCY = 503000000
+	MODULATION = VSB/8
+	INVERSION = AUTO
+
+[CHANNEL]
+	DELIVERY_SYSTEM = ATSC
+	FREQUENCY = 509000000
+	MODULATION = VSB/8
+	INVERSION = AUTO
+
+[CHANNEL]
+	DELIVERY_SYSTEM = ATSC
+	FREQUENCY = 515000000
+	MODULATION = VSB/8
+	INVERSION = AUTO
+
+[CHANNEL]
+	DELIVERY_SYSTEM = ATSC
+	FREQUENCY = 521000000
+	MODULATION = VSB/8
+	INVERSION = AUTO
+
+[CHANNEL]
+	DELIVERY_SYSTEM = ATSC
+	FREQUENCY = 527000000
+	MODULATION = VSB/8
+	INVERSION = AUTO
+
+[CHANNEL]
+	DELIVERY_SYSTEM = ATSC
+	FREQUENCY = 533000000
+	MODULATION = VSB/8
+	INVERSION = AUTO
+
+[CHANNEL]
+	DELIVERY_SYSTEM = ATSC
+	FREQUENCY = 551000000
+	MODULATION = VSB/8
+	INVERSION = AUTO
+
+[CHANNEL]
+	DELIVERY_SYSTEM = ATSC
+	FREQUENCY = 557000000
+	MODULATION = VSB/8
+	INVERSION = AUTO
+
+[CHANNEL]
+	DELIVERY_SYSTEM = ATSC
+	FREQUENCY = 563000000
+	MODULATION = VSB/8
+	INVERSION = AUTO
+
+[CHANNEL]
+	DELIVERY_SYSTEM = ATSC
+	FREQUENCY = 569000000
+	MODULATION = VSB/8
+	INVERSION = AUTO
+
+[CHANNEL]
+	DELIVERY_SYSTEM = ATSC
+	FREQUENCY = 575000000
+	MODULATION = VSB/8
+	INVERSION = AUTO
+
+[CHANNEL]
+	DELIVERY_SYSTEM = ATSC
+	FREQUENCY = 581000000
+	MODULATION = VSB/8
+	INVERSION = AUTO
+
+[CHANNEL]
+	DELIVERY_SYSTEM = ATSC
+	FREQUENCY = 587000000
+	MODULATION = VSB/8
+	INVERSION = AUTO
+
+[CHANNEL]
+	DELIVERY_SYSTEM = ATSC
+	FREQUENCY = 593000000
+	MODULATION = VSB/8
+	INVERSION = AUTO
+
+[CHANNEL]
+	DELIVERY_SYSTEM = ATSC
+	FREQUENCY = 599000000
+	MODULATION = VSB/8
+	INVERSION = AUTO
+	
+[CHANNEL]
+	DELIVERY_SYSTEM = ATSC
+	FREQUENCY = 605000000
+	MODULATION = VSB/8
+	INVERSION = AUTO
+
+[CHANNEL]
+	DELIVERY_SYSTEM = ATSC
+	FREQUENCY = 671000000
+	MODULATION = VSB/8
+	INVERSION = AUTO
+
+[CHANNEL]
+	DELIVERY_SYSTEM = ATSC
+	FREQUENCY = 773000000
+	MODULATION = VSB/8
+	INVERSION = AUTO
