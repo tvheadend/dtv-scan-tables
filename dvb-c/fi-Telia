@@ -1,7 +1,7 @@
-# Sonera kaapeli-tv (Finland)
-# Maksuttomat kanavat ovat 242,250,314,370 ja 410 MHz:n muxeissa
-#
-# freq      sr      fec  mod
+# Telia (ent. Sonera) kaapeli-tv (Finland)
+# Maksuttomat kanavat ovat 242, 250, 314, 370 ja 410 MHz:n muxeissa
+# Source: https://www.telia.fi/asiakastuki/tv-ja-viihde/telia-tv-kanavapaikat#kaapeli-tv-taajuudet
+
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBC/ANNEX_A
 	FREQUENCY = 234000000
@@ -188,9 +188,24 @@
 
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBC/ANNEX_A
-	FREQUENCY = 330000000
+	FREQUENCY = 282000000
 	SYMBOL_RATE = 6900000
 	INNER_FEC = AUTO
 	MODULATION = QAM/256
 	INVERSION = AUTO
 
+[CHANNEL]
+	DELIVERY_SYSTEM = DVBC/ANNEX_A
+	FREQUENCY = 290000000
+	SYMBOL_RATE = 6900000
+	INNER_FEC = AUTO
+	MODULATION = QAM/256
+	INVERSION = AUTO
+
+[CHANNEL]
+	DELIVERY_SYSTEM = DVBC/ANNEX_A
+	FREQUENCY = 330000000
+	SYMBOL_RATE = 6900000
+	INNER_FEC = AUTO
+	MODULATION = QAM/256
+	INVERSION = AUTO
