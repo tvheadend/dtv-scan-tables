@@ -1,5 +1,5 @@
 # DVB-T Madrid
-[Canal 22: Atreseries HD, Energy HD, Real Madrid TV, Be Mad]
+[Canal 22: Atreseries HD, Be Mad TV HD, Real Madrid TV HD, TEN, Los40 Classic, Los40 Urban, Radiolé]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 482000000
 	BANDWIDTH_HZ = 8000000
@@ -11,7 +11,19 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 26: Boing, Energy, Mega, 13 TV, Onda Cero, Europa FM, Melodía FM, Cope]
+[Canal 25: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
+	DELIVERY_SYSTEM = DVBT
+	FREQUENCY = 506000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 2/3
+	CODE_RATE_LP = NONE
+	MODULATION = QAM/64
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/4
+	HIERARCHY = NONE
+	INVERSION = AUTO
+
+[Canal 26: Boing, Energy, Mega, Trece, Onda Cero, Europa FM, Melodía FM, Cope, Rock FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 514000000
 	BANDWIDTH_HZ = 8000000
@@ -23,7 +35,19 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 33: GOL, Discovery Max, Disney Channel, Paramount Channel, Cope, Radio María, Radio Marca, Vaughan Radio, esRadio]
+[Canal 32: Gol Play, DMax, Disney Channel, Paramount Network, Cadena 100, Radio María, Radio Marca, BOM Radio]
+	DELIVERY_SYSTEM = DVBT
+	FREQUENCY = 562000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 2/3
+	CODE_RATE_LP = NONE
+	MODULATION = QAM/64
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/4
+	HIERARCHY = NONE
+	INVERSION = AUTO
+
+[Canal 33: La 1, La 1 HD, La 2, La 2 HD, 24h, 24h HD, Radio Nacional, Radio 5]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 570000000
 	BANDWIDTH_HZ = 8000000
@@ -35,7 +59,31 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 39: 8Madrid, 13TV Madrid, Hit TV, Intereconomía TV, Business TV, Canal Galería, Rock FM, Cadena 100, Kiss FM, Hit FM]
+[Canal 34: Antena 3, Antena 3 HD, laSexta, laSexta HD, Neox, Nova]
+	DELIVERY_SYSTEM = DVBT
+	FREQUENCY = 578000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 2/3
+	CODE_RATE_LP = NONE
+	MODULATION = QAM/64
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/4
+	HIERARCHY = NONE
+	INVERSION = AUTO
+
+[Canal 38: Telemadrid, La Otra, Telemadrid HD, La Otra HD, BOM Cine, Onda Madrid]
+	DELIVERY_SYSTEM = DVBT
+	FREQUENCY = 610000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 2/3
+	CODE_RATE_LP = NONE
+	MODULATION = QAM/64
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/4
+	HIERARCHY = NONE
+	INVERSION = AUTO
+
+[Canal 39: 8Madrid, El Toro TV, Libertad Digital, Trece, Hit TV, Canal Galería, Déjate TV, Cope Más, Megastar FM, Kiss FM, Hit FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 618000000
 	BANDWIDTH_HZ = 8000000
@@ -47,7 +95,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 41: TDP, TDP HD, KISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, Kiss FM]
+[Canal 41: TDP, TDP HD, Clan, Clan HD, DKISS, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, Kiss FM, Hit FM, esRadio, SER, Los 40, Dial]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 634000000
 	BANDWIDTH_HZ = 8000000
@@ -59,9 +107,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 49: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
+[Canal 48: 8Madrid, Canal Red, Distrito TV, TBN, CGTN-e, La Tienda en Casa, Nesting TV, +Galeria]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 698000000
+	FREQUENCY = 690000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -71,50 +119,5 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 50: 8Madrid, Ver-t, TBN, Viral TV, Bom, Buenacompra, +Galeria]
-	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 706000000
-	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
-	CODE_RATE_LP = NONE
-	MODULATION = QAM/64
-	TRANSMISSION_MODE = 8K
-	GUARD_INTERVAL = 1/4
-	HIERARCHY = NONE
-	INVERSION = AUTO
 
-[Canal 55: Telemadrid, La Otra, Telemadrid HD, EHS TV, Onda Madrid]
-	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 746000000
-	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
-	CODE_RATE_LP = NONE
-	MODULATION = QAM/64
-	TRANSMISSION_MODE = 8K
-	GUARD_INTERVAL = 1/4
-	HIERARCHY = NONE
-	INVERSION = AUTO
 
-[Canal 58: La 1, La 1 HD, La 2, 24h, Clan, Radio Nacional, Radio 5]
-	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 770000000
-	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
-	CODE_RATE_LP = NONE
-	MODULATION = QAM/64
-	TRANSMISSION_MODE = 8K
-	GUARD_INTERVAL = 1/4
-	HIERARCHY = NONE
-	INVERSION = AUTO
-
-[Canal 59: Antena 3, Antena 3 HD, laSexta, laSexta HD, Neox, Nova]
-	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 778000000
-	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
-	CODE_RATE_LP = NONE
-	MODULATION = QAM/64
-	TRANSMISSION_MODE = 8K
-	GUARD_INTERVAL = 1/4
-	HIERARCHY = NONE
-	INVERSION = AUTO
