@@ -1,6 +1,17 @@
 All tables are now using DVBv5 format. That allows suporting all standards
 available on a standard way.
 
+GENERATING DVBV5 FILES FOR THIS REPO
+=====================================
+Install w_scan_cpp
+Scan w_scan_cpp -f c -x > yourchannels.txt
+while C stands for the type of DVB, one of A, C, S or T.
+
+To publish the file: 
+- fork the repo
+- add the file to your repo
+- then add a pull request
+
 GENERATING FILES TO THE LEGACY DVBV3 FORMAT
 ===========================================
 
