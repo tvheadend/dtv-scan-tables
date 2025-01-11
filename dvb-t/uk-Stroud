@@ -1,0 +1,49 @@
+#----------------------------------------------------------------------------------------------
+# Updated Q1 2025
+# In sync with info at https://ukfree.tv/transmitters/tv/Stroud/PGSTART2030/
+#----------------------------------------------------------------------------------------------
+# location and provider: UK, Stroud
+# date (yyyy-mm-dd)    : 2025-01-03
+#----------------------------------------------------------------------------------------------
+#
+
+# C40 626MHz 
+# C43 650MHz 
+# C46 674MHz 
+
+[C40 PSB1 BBCA]
+	DELIVERY_SYSTEM = DVBT
+	FREQUENCY = 626000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 2/3
+	CODE_RATE_LP = NONE
+	MODULATION = QAM/64
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/32
+	HIERARCHY = NONE
+	INVERSION = AUTO
+
+[C43 PSB2 D3+4]
+	DELIVERY_SYSTEM = DVBT
+	FREQUENCY = 650000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 2/3
+	CODE_RATE_LP = NONE
+	MODULATION = QAM/64
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/32
+	HIERARCHY = NONE
+	INVERSION = AUTO
+
+[C46 PSB3 BBCB]
+	DELIVERY_SYSTEM = DVBT2
+	FREQUENCY = 674000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 2/3
+	CODE_RATE_LP = NONE
+	MODULATION = QAM/256
+	TRANSMISSION_MODE = 32K
+	GUARD_INTERVAL = 1/128
+	HIERARCHY = NONE
+        STRAM_ID = 0
+	INVERSION = AUTO
