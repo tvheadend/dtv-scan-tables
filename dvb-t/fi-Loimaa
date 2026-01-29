@@ -1,23 +1,20 @@
 # 2014-04-18 Antti Palosaari <crope@iki.fi>
 # generated from http://www.digita.fi/kuluttajat/tv/nakyvyysalueet/kanavanumerot_ja_taajuudet
+# 2026-01-25 Tomi Juntunen <tomi.juntunen@iki.fi>
+# updated frequencies and delivery system to DVB-T2 from https://www.digita.fi/app/uploads/2026/01/Taajuustaulukko-01_2026.pdf
 
 [Loimaa]
-	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 754000000
+	DELIVERY_SYSTEM = DVBT2
+	FREQUENCY = 618000000
 	BANDWIDTH_HZ = 8000000
 
 [Loimaa]
-	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 682000000
+	DELIVERY_SYSTEM = DVBT2
+	FREQUENCY = 690000000
 	BANDWIDTH_HZ = 8000000
 
 [Loimaa]
-	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 506000000
-	BANDWIDTH_HZ = 8000000
-
-[Loimaa]
-	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 722000000
+	DELIVERY_SYSTEM = DVBT2
+	FREQUENCY = 626000000
 	BANDWIDTH_HZ = 8000000
 

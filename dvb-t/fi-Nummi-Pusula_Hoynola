@@ -1,0 +1,20 @@
+# 2014-04-18 Antti Palosaari <crope@iki.fi>
+# generated from http://www.digita.fi/kuluttajat/tv/nakyvyysalueet/kanavanumerot_ja_taajuudet
+# 2026-01-25 Tomi Juntunen <tomi.juntunen@iki.fi>
+# updated frequencies and delivery system to DVB-T2 from https://www.digita.fi/app/uploads/2026/01/Taajuustaulukko-01_2026.pdf
+
+[Nummi-Pusula_Hoynola]
+	DELIVERY_SYSTEM = DVBT2
+	FREQUENCY = 578000000
+	BANDWIDTH_HZ = 8000000
+
+[Nummi-Pusula_Hoynola]
+	DELIVERY_SYSTEM = DVBT2
+	FREQUENCY = 642000000
+	BANDWIDTH_HZ = 8000000
+
+[Nummi-Pusula_Hoynola]
+	DELIVERY_SYSTEM = DVBT2
+	FREQUENCY = 610000000
+	BANDWIDTH_HZ = 8000000
+

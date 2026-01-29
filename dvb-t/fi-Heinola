@@ -1,23 +1,20 @@
 # 2014-04-18 Antti Palosaari <crope@iki.fi>
 # generated from http://www.digita.fi/kuluttajat/tv/nakyvyysalueet/kanavanumerot_ja_taajuudet
+# 2026-01-25 Tomi Juntunen <tomi.juntunen@iki.fi>
+# updated frequencies and delivery system to DVB-T2 from https://www.digita.fi/app/uploads/2026/01/Taajuustaulukko-01_2026.pdf
 
 [Heinola]
-	DELIVERY_SYSTEM = DVBT
+	DELIVERY_SYSTEM = DVBT2
 	FREQUENCY = 554000000
 	BANDWIDTH_HZ = 8000000
 
 [Heinola]
-	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 786000000
-	BANDWIDTH_HZ = 8000000
-
-[Heinola]
-	DELIVERY_SYSTEM = DVBT
+	DELIVERY_SYSTEM = DVBT2
 	FREQUENCY = 530000000
 	BANDWIDTH_HZ = 8000000
 
 [Heinola]
-	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 706000000
+	DELIVERY_SYSTEM = DVBT2
+	FREQUENCY = 578000000
 	BANDWIDTH_HZ = 8000000
 

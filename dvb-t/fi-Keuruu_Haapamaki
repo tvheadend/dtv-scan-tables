@@ -1,23 +1,20 @@
 # 2014-04-18 Antti Palosaari <crope@iki.fi>
 # generated from http://www.digita.fi/kuluttajat/tv/nakyvyysalueet/kanavanumerot_ja_taajuudet
+# 2026-01-25 Tomi Juntunen <tomi.juntunen@iki.fi>
+# updated frequencies and delivery system to DVB-T2 from https://www.digita.fi/app/uploads/2026/01/Taajuustaulukko-01_2026.pdf
 
 [Keuruu_Haapamaki]
-	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 682000000
+	DELIVERY_SYSTEM = DVBT2
+	FREQUENCY = 562000000
 	BANDWIDTH_HZ = 8000000
 
 [Keuruu_Haapamaki]
-	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 762000000
-	BANDWIDTH_HZ = 8000000
-
-[Keuruu_Haapamaki]
-	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 698000000
-	BANDWIDTH_HZ = 8000000
-
-[Keuruu_Haapamaki]
-	DELIVERY_SYSTEM = DVBT
+	DELIVERY_SYSTEM = DVBT2
 	FREQUENCY = 602000000
+	BANDWIDTH_HZ = 8000000
+
+[Keuruu_Haapamaki]
+	DELIVERY_SYSTEM = DVBT2
+	FREQUENCY = 666000000
 	BANDWIDTH_HZ = 8000000
 
