@@ -1,6 +1,6 @@
-# UPC Česká republika | https://www.upc.cz/
-# Created from https://www.upc.cz/pdf/Frekvencni_prehled_digitalni_kabelove_televizee.pdf
-# Last updated: 5/10/2018
+# Vodafone Česká republika (formerly UPC) | https://www.vodafone.cz/
+# Created from https://static.vodafone.cz/cp/docs/tv/frekvencni_prehled_digitalni_kabelove_televize.pdf
+# Last updated: 27/9/2026
 
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBC/ANNEX_A
@@ -248,4 +248,12 @@
 	SYMBOL_RATE = 6900000
 	INNER_FEC = 3/5
 	MODULATION = QAM/64
+	INVERSION = AUTO
+
+[CHANNEL]
+	DELIVERY_SYSTEM = DVBC/ANNEX_A
+	FREQUENCY = 786000000
+	SYMBOL_RATE = 6900000
+	INNER_FEC = 3/5
+	MODULATION = QAM/256
 	INVERSION = AUTO
